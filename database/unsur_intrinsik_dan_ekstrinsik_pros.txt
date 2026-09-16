@@ -1,0 +1,47 @@
+unsur_intrinsik_dan_ekstrinsik_prosa
+**Analisis Komparatif: Hubungan dan Perbedaan Unsur Intrinsik dan Ekstrinsik dalam Karya Sastra Prosa**
+
+Unsur intrinsik dan unsur ekstrinsik merupakan dua pilar utama yang membangun totalitas karya sastra prosa. Meskipun secara metodologis kedua unsur ini dipisahkan untuk mempermudah pembedahan dan pemaknaan teks, dalam realitas struktur sastra keduanya saling berkelindan dan tidak dapat dipisahkan secara mutlak.
+
+---
+
+**1. Perbedaan Mendasar Unsur Intrinsik dan Ekstrinsik**
+
+Perbedaan antara kedua unsur ini terletak pada ranah keberadaannya (*ontologi*), fungsi pembentukannya, serta pendekatan analitis yang digunakan untuk mengkajinya.
+
+| Aspek Pembeda | Unsur Intrinsik | Unsur Ekstrinsik |
+| --- | --- | --- |
+| **Hakekat & Keberadaan** | Elemen yang terdapat **di dalam** teks sastra itu sendiri (*murni internal*). | Elemen yang berada **di luar** teks sastra, tetapi melingkupi proses penciptaannya (*eksternal*). |
+| **Komponen Utama** | Tema, alur/plot, tokoh/penokohan, latar, sudut pandang, gaya bahasa, dan amanat. | Latar belakang pengarang (biografi, psikologis, ideologi), kondisi masyarakat (sosial, ekonomi, politik), dan nilai-nilai kehidupan (moral, agama, budaya). |
+| **Pendekatan Analisis** | Dikalibrasi menggunakan **Pendekatan Struktural / Objektif** melalui teknik *close reading*. | Dikalibrasi menggunakan **Pendekatan Kontekstual** (Sosiologi Sastra, Psikologi Sastra, Historisisme, Feminisme). |
+| **Sifat Otonomi** | Bersifat otonom dan mandiri; dapat dianalisis tanpa perlu merujuk data luar teks. | Bersifat interdependen; memerlukan data pendukung di luar teks (fakta sejarah, dokumen biografi, data sosiologis). |
+
+---
+
+**2. Hubungan Dialektis dan Keterkaitan Antara Kedua Unsur**
+
+Meskipun berbeda secara posisi dan sifat, hubungan antara unsur intrinsik dan ekstrinsik bersifat **substantif-reflektif**. Unsur ekstrinsik bertindak sebagai bahan baku atau "materi mentah" yang kemudian diolah, disaring, dan ditransformasikan oleh pengarang ke dalam bentuk unsur intrinsik melalui proses kreatif.
+
+```
+ [ UNSUR EKSTRINSIK ]                                     [ UNSUR INTRINSIK ]
+ (Bahan Baku / Kontekstual)                                (Bentuk / Tekstual)
+
+ ┌────────────────────────┐                               ┌────────────────────────┐
+ │ Realitas Sosial-Politik │ ──── Transmutasi Kreatif ───► │ Alur & Konflik Cerita  │
+ ├────────────────────────┤       oleh Pengarang          ├────────────────────────┤
+ │ Biografi & Psikologi   │ ────────────────────────────► │ Karakterisasi Tokoh    │
+ ├────────────────────────┤                               ├────────────────────────┤
+ │ Nilai Budaya & Agama   │ ────────────────────────────► │ Tema & Amanat Cerita   │
+ └────────────────────────┘                               └────────────────────────┘
+
+```
+
+* **Nilai/Kondisi Sosial Menjadi Alur dan Latar:** Kondisi krisis politik atau strata sosial di dunia nyata (ekstrinsik) direfleksikan pengarang menjadi dinamika alur cerita, pertentangan antar-kelas, dan latar sosial tempat para tokoh bergerak (intrinsik).
+* **Pengalaman Hidup Pengarang Menjadi Perwatakan Tokoh:** Pandangan hidup, trauma, atau riwayat intelektual pengarang (ekstrinsik) ditransformasikan secara eksplisit maupun implisit ke dalam motif, dialog, dan psikologi tokoh utama (intrinsik).
+* **Ideologi Menjadi Tema dan Amanat:** Gagasan filosofis, kepercayaan keagamaan, atau nilai moral yang dianut pengarang/masyarakatnya (ekstrinsik) menjiwai bentukan tema dan pesan tersirat yang ingin disampaikan di dalam teks (intrinsik).
+
+---
+
+**3. Simpulan**
+
+Unsur intrinsik memberikan **raga dan estetika** pada karya sastra prosa sehingga ia berwujud sebagai teks fiksi yang bernilai seni, sedangkan unsur ekstrinsik memberikan **roh dan kedalaman makna** sehingga narasi tersebut tetap mengakar pada hakikat kemanusiaan dan realitas sosial. Analisis sastra yang komprehensif tidak hanya membedah kerapian struktur intrinsik secara mekanis, tetapi juga melacak bagaimana unsur-unsur ekstrinsik memberi jiwa pada jalinan cerita tersebut.

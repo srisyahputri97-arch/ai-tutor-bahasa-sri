@@ -1,0 +1,79 @@
+analisis wacana
+Analisis Wacana (*Discourse Analysis*) adalah cabang ilmu linguistik dan studi media/komunikasi yang mempelajari bahasa dalam penggunaannya pada konteks nyata—baik lisan maupun tulisan—di atas tataran kalimat. Jika sintaksis berhenti pada struktur kalimat dan semantik pada makna kata/kalimat, analisis wacana melangkah lebih jauh dengan membedah bagaimana kalimat-kalimat tersebut saling berhubungan membentuk kesatuan makna dan terikat dengan konteks sosial, budaya, serta kekuasaan.
+
+---
+
+**1. HAKIKAT DAN PRINSIP DASAR ANALISIS WACANA**
+
+* **Definisi:** Kajian terhadap struktur, fungsi, dan hubungan antar-kalimat dalam satu teks utuh, serta bagaimana teks tersebut diproduksi, diterima, dan dipengaruhi oleh konteks di luar bahasa.
+* **Prinsip Utama:**
+* **Konteks:** Teks tidak pernah hadir di ruang hampa. Konteks situasi, sosial, budaya, dan sejarah menentukan makna wacana.
+* **Fungsi Bahasa:** Bahasa tidak hanya digunakan untuk menyampaikan fakta (informatif), tetapi juga untuk melakukan tindakan, membujuk, memengaruhi, atau membangun identitas.
+* **Interteksitas:** Sebuah wacana hampir selalu berkaitan atau merespons wacana-wacana yang hadir sebelumnya.
+
+
+
+---
+
+**2. UNSUR internal WACANA (STRUKTUR TEKS)**
+
+Suatu runtutan kalimat dapat dikatakan sebagai wacana jika memenuhi dua syarat utama integritas teks:
+
+* **Kohesi (Keterpaduan Bentuk/Leksikogramatikal):** Keterikatan antarunsur dalam wacana secara struktural.
+* *Pemarkah Kohesi:* Pronomena (*ia, mereka*), konjungsi (*namun, oleh karena itu*), substitusi, elipsis, serta kohesi leksikal (reiterasi, sinonim, kolokasi).
+
+
+* **Koherensi (Keterpaduan Makna):** Keterikatan antargagasan di dalam teks sehingga wacana dapat dipahami secara logis oleh pembaca/pendengar.
+* *Contoh:* "Lampu merah menyala. Budi menginjak rem." (Tidak ada konjungsi langsung, namun secara koherensi bermakna sebab-akibat yang logis).
+
+
+
+---
+
+**3. Pendekatan dan pendekatan utama**
+
+Analisis wacana berkembang ke dalam beberapa aliran utama sesuai dengan fokus kajiannya:
+
+| Aliran / Pendekatan | Fokus Kajian | Tokoh Utama | Contoh Objek Kajian |
+| --- | --- | --- | --- |
+| **Analisis Wacana Tekstual / Linguistik** | Kohesi, koherensi, struktur naratif, dan pembentukan paragraf/teks. | M.A.K. Halliday, van Dijk | Cerita pendek, artikel berita, pidato resmi. |
+| **Analisis Percakapan (*Conversation Analysis*)** | Aturan giliran bicara (*turn-taking*), jeda, perbaikan (*repair*), dan pola interaksi lisan. | Harvey Sacks, Emanuel Schegloff | Percakapan telepon, wawancara TV, diskusi sehari-hari. |
+| **Analisis Wacana Kritis (AWK / *Critical Discourse Analysis*)** | Membongkar bagaimana ideologi, kekuasaan, dominasi, dan ketimpangan disembunyikan di balik bahasa. | Norman Fairclough, Teun A. van Dijk, Ruth Wodak | Berita politik, pidato kampanye, iklan media massa. |
+
+---
+
+**4. KERANGKA ANALISIS WACANA KRITIS (AWK)**
+
+Analisis Wacana Kritis merupakan model yang paling populer dan sering digunakan dalam riset akademik. Terdapat tiga model teoretis utama:
+
+**A. Model Tiga Dimensi Norman Fairclough**
+Fairclough membagi analisis wacana menjadi 3 tingkatan yang saling terhubung:
+
+1. **Analisis Teks (Mikro):** Membedah aspek kebahasaan (pilihan kata/diksis, tata bahasa, penggunaan kalimat aktif/pasif, metafora).
+2. **Praktik Diskursif / *Discourse Practice* (Meso):** Menganalisis bagaimana teks diproduksi (oleh wartawan/penulis) dan dikonsumsi (oleh pembaca/masyarakat).
+3. **Praktik Sosial-Budaya / *Socio-cultural Practice* (Makro):** Menganalisis dampak teks terhadap situasi sosial, politik, ideologi, dan institusi yang lebih luas.
+
+**B. Model Kognisi Sosial Teun A. van Dijk**
+Van Dijk menghubungkan struktur teks dengan kognisi mental pembuat teks:
+
+* **Struktur Makro:** Tematik (tema utama teks).
+* **Superstruktur:** Skematik (alur/sistematika penyusunan teks dari pendahuluan hingga penutup).
+* **Struktur Mikro:** Semantik, sintaksis, stilistika, dan retoris yang dipilih penutur/penulis.
+* **Kognisi Sosial:** Kesadaran, stereotip, atau pengetahuan mental penulis saat menyusun teks.
+
+---
+
+**5. CONTOH APLIKASI ANALISIS WACANA**
+
+**Kasus: Framing Berita Media tentang Unjuk Rasa**
+
+* **Judul Berita A:** *"Massa Aksi Merusak Fasilitas Umum di Depan Gedung DPR."*
+* *Analisis:* Menggunakan subjek "Massa Aksi" dengan verba aktif "Merusak". Pilihan kata ini membangun stigma negatif/anarkis terhadap demonstran.
+
+
+* **Judul Berita B:** *"Fasilitas Umum Rusak Akibat Bentrokan dengan Aparat."*
+* *Analisis:* Menggunakan kalimat pasif dan kata netral "Bentrokan". Subjek Pelaku disamarkan, sehingga fokus berita bergeser dari kesalahan demonstran menjadi situasi chaos secara umum.
+
+
+
+melalui analisis wacana, kita dapat melihat bahwa pilihan struktur kalimat di atas bukanlah kebetulan, melainkan cerminan dari sudut pandang, kepentingan politik, atau ideologi media tersebut.

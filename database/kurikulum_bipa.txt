@@ -1,0 +1,71 @@
+kurikulum_bipa
+**Pemetaan Standar Kompetensi dan Silabus Kurikulum BIPA (1–7) Berstandar UKBI**
+
+Pemetaan kurikulum Bahasa Indonesia bagi Penutur Asing (BIPA) ini menyelaraskan tingkatan kemahiran BIPA (Permendikbud No. 27 Tahun 2017 / standar BIPA Badan Bahasa) dengan sebutan predikat pada **Uji Kemahiran Berbahasa Indonesia (UKBI)** serta skala acuan internasional *Common European Framework of Reference for Languages* (CEFR).
+
+---
+
+**1. Matriks Penyelarasan BIPA, UKBI, dan CEFR**
+
+| Tingkat BIPA | Predikat Sekuel UKBI | Kesetaraan CEFR | Orientasi Pembelajaran & Luaran Komunikasi |
+| --- | --- | --- | --- |
+| **BIPA 1** | Terbatas | A1 | Ungkapan dasar, transaksi sosial rutin, perkenalan diri. |
+| **BIPA 2** | Marginal | A2 | Deskripsi sederhana lingkungan sekitar, instruksi kerja dasar. |
+| **BIPA 3** | Semenjana | B1 | Narasi pengalaman, pendapat pribadi, komunikasi situasi umum. |
+| **BIPA 4** | Madya | B2 | Interaksi sosial luas, pemahaman teks kompleks & abstrak. |
+| **BIPA 5** | Unggul | C1 | Komunikasi akademis/profesional, debat, analisis kritis. |
+| **BIPA 6** | Sangat Unggul | C1+ | Penulisan ilmiah, apresiasi sastra, analisis wacana rumit. |
+| **BIPA 7** | Istimewa | C2 | Penguasaan setara penutur jati, diplomasi, kajian budaya mendalam. |
+
+---
+
+**2. Rincian Silabus dan Standar Kompetensi BIPA 1–7**
+
+**BIPA 1: Tingkat Pemula Awal**
+
+* **Standar Kompetensi:** Pembelajar mampu memahami dan menggunakan ungkapan bahasa Indonesia sehari-hari untuk memenuhi kebutuhan konkret.
+* **Materi Linguistik:** Tata bunyi/pelafalan, kata sapaan, kalimat deklaratif sederhana, kata ganti orang, angka, jam, kata kerja dasar.
+* **Fokus Genre Teks:** Teks deskripsi singkat, teks transaksi sederhana, formulir identitas.
+* **Elemen Kultural:** Tata krama perkenalan, sapaan (*Bapak/Ibu/Mas/Mbak*), budaya antre dan gestur dasar.
+
+**BIPA 2: Tingkat Pemula Lanjut**
+
+* **Standar Kompetensi:** Pembelajar mampu berkomunikasi dalam tugas-tugas sederhana dan rutin yang memerlukan pertukaran informasi secara langsung.
+* **Materi Linguistik:** Imbuhan dasar (*me-*, *ber-*, *di-*), kata depan (*di, ke, dari*), konjungsi temporal (*sebelum, sesudah*), kalimat perintah halus.
+* **Fokus Genre Teks:** Teks petunjuk (prosedur sederhana), teks rekon/catatan harian, iklan singkat.
+* **Elemen Kultural:** Etika tawar-menawar di pasar tradisional, transportasi lokal, ragam kuliner Nusantara.
+
+**BIPA 3: Tingkat Madya Awal**
+
+* **Standar Kompetensi:** Pembelajar mampu memahami poin utama dari wacana lisan/tulis yang jelas tentang hal-hal yang sering ditemui dalam pekerjaan, sekolah, atau waktu luang.
+* **Materi Linguistik:** Imbuhan gabung (*me-kan*, *me-i*, *pe-an*), kalimat majemuk setara, ragam kalimat pasif, kata hubung kausalitas (*karena, sehingga*).
+* **Fokus Genre Teks:** Teks narasi pengalaman, teks eksposisi sederhana, surat resmi singkat.
+* **Elemen Kultural:** Adat istiadat pernikahan/perayaan daerah, konsep "gotong royong", kesantunan menolak penawaran.
+
+**BIPA 4: Tingkat Madya Lanjut**
+
+* **Standar Kompetensi:** Pembelajar mampu memahami gagasan utama dari teks kompleks mengenai topik konkret maupun abstrak, serta berinteraksi dengan kelancaran yang wajar.
+* **Materi Linguistik:** Imbuhan kompleks (*per-an*, *ke-an*), kalimat majemuk bertingkat, ungkapan idiomatik umum, pembedaan ragam resmi dan santai.
+* **Fokus Genre Teks:** Teks berita, teks eksposisi analitis, teks ulasan (*review*), cerpen sederhana.
+* **Elemen Kultural:** Isu-isu sosial masyarakat modern Indonesia, tradisi mudik, struktur kekeluargaan/kekerabatan.
+
+**BIPA 5: Tingkat Mahir Awal**
+
+* **Standar Kompetensi:** Pembelajar mampu memahami berbagai jenis teks yang panjang dan menuntut, serta mengungkapkan gagasan secara spontan, lancar, dan terstruktur untuk tujuan akademis/profesional.
+* **Materi Linguistik:** Nominalisasi (*pe-an*), variasi konjungsi korelatif, diksi akademis, ragam bahasa formal tingkat tinggi.
+* **Fokus Genre Teks:** Teks diskusi, teks artikel opini, naskah pidato, teks Laporan Hasil Observasi (LHO) kompleks.
+* **Elemen Kultural:** Sistem pemerintahan & sejarah Indonesia, pluralisme, apresiasi puisi dan musik pop Indonesia.
+
+**BIPA 6: Tingkat Mahir Lanjut**
+
+* **Standar Kompetensi:** Pembelajar mampu menganalisis wacana ilmiah, membedah karya sastra, serta menyusun argumen kritis yang runtut dalam bentuk tertulis dan lisan.
+* **Materi Linguistik:** Gaya bahasa figuratif/majas, kosa kata arkaik/serapan khusus, struktur wacana ilmiah, pragmatik tinggi.
+* **Fokus Genre Teks:** Makalah akademis, teks kritik sastra, naskah debat, esai argumentatif.
+* **Elemen Kultural:** Pembedahan novel/film Indonesia, isu ekologis & ekonomi, dinamika politik kenegaraan.
+
+**BIPA 7: Tingkat Istimewa**
+
+* **Standar Kompetensi:** Pembelajar memiliki kemahiran yang mendekati atau setara dengan penutur jati terpelajar; mampu menjadi penerjemah, negosiatif dalam diplomasi, atau peneliti kebudayaan.
+* **Materi Linguistik:** Seluruh peranti kohesi dan kohesi wacana kompleks, register bahasa khusus (hukum, diplomasi, seni), stilistika.
+* **Fokus Genre Teks:** Artikel jurnal ilmiah, naskah kesepakatan/kontrak, naskah drama/hikayat klasik, karya sastra utuh.
+* **Elemen Kultural:** Kajian filosofis keindonesiaan, diplomasi budaya, dialektologi/ragam bahasa daerah.

@@ -1,0 +1,36 @@
+jenis_drama
+**Jenis-Jenis Drama**
+
+Drama adalah genre karya sastra yang ditulis dalam bentuk dialog antar-tokoh dan dirancang khusus untuk dipentaskan di atas panggung pertunjukan. Berbeda dari puisi dan prosa yang ditujukan langsung untuk dibaca, drama memiliki hakikat ganda sebagai teks sastra sekaligus sebagai seni pertunjukan (*dramaturgi*). Pengklasifikasian jenis-jenis drama dapat ditinjau dari tiga sudut pandang utama: berdasarkan penyajian lakon (suasana/konflik), sarana pementasan, dan keterikatan pada naskah.
+
+---
+
+**1. Berdasarkan Penyajian Lakon (Isi & Suasana Konflik)**
+
+Kategori ini membagi drama berdasarkan alur emosional, sifat konflik, serta akhir cerita yang disajikan kepada penonton:
+
+* **Tragedi:** Drama yang mengisahkan kemalangan, Penderitaan, atau kehancuran tokoh utama akibat takdir, kekuatan luar biasa, atau kelemahan fatal dalam dirinya sendiri (*hamartia*). Drama tragedi bertujuan membangkitkan rasa iba dan takut pada penonton untuk mencapai pembersihan emosi (*katarsis*).
+* **Komedi:** Drama yang mengusung jalan cerita penuh humor, kelucuan, dan sindiran halus yang bertujuan menghibur. Drama komedi biasanya diakhiri dengan penyelesaian yang membahagiakan (*happy ending*).
+* **Tragikomedi:** Drama yang memadukan unsur tragedi dan komedi secara beriringan. Kesedihan dan penderitaan tokoh diselingi oleh adegan lucu atau ironis untuk meredakan ketegangan.
+* **Melodrama:** Drama yang menyajikan cerita dengan emosi yang berlebihan, sentimental, dan penuh sensasi dramatis. Karakter tokoh dalam melodrama sangat hitam-putih (sangat baik atau sangat jahat) dan biasanya diiringi musik pengiring (*melos*) untuk memperkuat suasana batin.
+* **Farce (Dagelan):** Drama komedi berskala ringan yang mengandalkan tingkah laku fisik yang konyol, situasi absurd, salah paham, dan kebohongan yang sengaja dibesar-besarkan untuk memancing gelak tawa.
+* **Drama Absurd:** Jenis drama modern yang mengabaikan pola alur linear, kelogisan dialog, dan hukum sebab-akibat konvensional untuk menggambarkan ketidakbermaknaan (*absurditas*) serta krisis eksistensial keberadaan manusia.
+
+---
+
+**2. Berdasarkan Sarana atau Media Pementasan**
+
+Kategori ini membedakan drama berdasarkan media penyampaian pementasannya kepada audiens:
+
+* **Drama Panggung:** Drama yang dimainkan secara langsung oleh para aktor di atas panggung di hadapan penonton.
+* **Drama Radio:** Drama yang hanya mengandalkan media suara (vokal aktor, efek suara/sound effect, dan musik) tanpa bentuk visual.
+* **Drama Televisi / Film:** Drama yang direkam menggunakan kamera, memanfaatkan teknik penyuntingan gambar, serta mengandalkan tata visual sinematografis.
+* **Drama Wayang:** Drama khas tradisi Indonesia tempat dialog disuarakan oleh dalang dan lakon dimainkan oleh wayang (kulit, golek, atau orang).
+* **Drama Boneka:** Drama yang tokoh-tokohnya diwujudkan dan digerakkan dalam bentuk boneka oleh para pemain.
+
+---
+
+**3. Berdasarkan Keterikatan pada Naskah (Tradisi Pementasan)**
+
+* **Drama Tradisional (Teater Rakyat):** Pementasan drama yang dilakukan secara spontan dan improvisatif tanpa menggunakan naskah tertulis yang baku. Jalan cerita diwariskan secara lisan (contoh: *Ludruk, Ketoprak, Lenong*).
+* **Drama Modern:** Pementasan drama yang terikat secara ketat pada naskah tulisan karya pengarang (*dramawan*), tempat para aktor wajib menghafalkan dan memperagakan dialog sesuai petunjuk pengadegan (*kramagung*).

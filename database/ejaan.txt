@@ -1,0 +1,30 @@
+Ejaan Bahasa Indonesia yang Disempurnakan Edisi Kelima (EYD V) merupakan pedoman tata tulis resmi yang memuat kaidah penggunaan huruf, kata, tanda baca, dan unsur serapan.
+
+**1. Pemakaian Huruf**
+
+* **Huruf Kapital:** Digunakan pada awal kalimat, unsur nama orang/julukan, nama geografi, jabatan yang diikuti nama orang, nama agama/kitab suci, dan nama tahun/bulan/hari/hari besar. *Contoh: Gubernur Jawa Barat, bulan Agustus.*
+* **Huruf Miring:** Digunakan untuk menuliskan judul buku/majalah, menegaskan bagian kata, serta istilah bahasa asing atau daerah. *Contoh: menguraikan masalah *keadilan*, istilah *download*.*
+* **Huruf Tebal:** Digunakan untuk menegaskan bagian tulisan yang sudah dimiringkan serta bagian karangan seperti bab atau subbab.
+
+**2. Penulisan Kata**
+
+* **Kata Turunan & Imbuhan:** Imbuhan (awalan, sisipan, akhiran) ditulis serangkai dengan kata dasarnya. *Contoh: berjalan, mempermudah.*
+* **Bentuk Terikat:** Ditulis serangkai dengan kata yang mengikutinya. Jika diikuti kata berawalan huruf kapital, gunakan tanda hubung. *Contoh: pascasarjana, non-Indonesia.*
+* **Kata Depan (*di*, *ke*, *dari*):** Ditulis terpisah dari kata yang mengikutinya jika menyatakan tempat/arah. *Contoh: di rumah, ke mana, dari Jakarta.*
+* **Partikel:** Partikel *-lah*, *-kah*, dan *-tah* ditulis serangkai dengan kata yang mendahuluinya. Partikel *pun* ditulis terpisah, kecuali pada kata hubung tetap seperti *meskipun*, *walaupun*. *Contoh: Apa pun yang terjadi, ia tetap pergi.*
+
+**3. Tanda Baca Utama**
+
+* **Tanda Titik (.):** Digunakan di akhir kalimat pernyataan, pemisah angka jam/menit/detik, dan pada singkatan nama/gelar. *Contoh: Dr. Ir. Soekarno.*
+* **Tanda Koma (,):** Digunakan di antara unsur-unsur perincian, sebelum kata hubung pertentangan (*tetapi*, *melainkan*), dan di belakang kata transisi di awal kalimat (*oleh karena itu*, *namun*). *Contoh: Saya membeli buku, pensil, dan penghapus.*
+* **Tanda Titik Dua (:):** Digunakan di akhir pernyataan lengkap yang diikuti perincian, atau pada teks drama setelah nama tokoh. *Contoh: Ibu membeli bahan dapur: minyak, beras, dan garam.*
+* **Tanda Hubung (-):** Menyambung suku kata yang terpenggal, kata ulang, serta merangkai unsur bahasa Indonesia dengan bahasa asing. *Contoh: anak-anak, di-*upgrade*.*
+
+**4. Penulisan Unsur Serapan**
+
+* **Serapan Adopsi:** Mengambil bentuk kata asing secara utuh tanpa perubahan penulisan. *Contoh: supermarket, data.*
+* **Serapan Adaptasi:** Disesuaikan ejaannya dengan kaidah bahasa Indonesia. *Contoh: system $\rightarrow$ sistem, quality $\rightarrow$ kualitas.*
+
+---
+
+Apakah ada bagian tertentu dari kaidah ejaan ini yang ingin kamu bedah lebih rinci beserta contoh penggunaannya?

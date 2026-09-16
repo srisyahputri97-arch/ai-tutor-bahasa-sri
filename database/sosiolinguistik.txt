@@ -1,0 +1,64 @@
+sosiolinguistik
+Sosiolinguistik adalah interdisiplin ilmu antara sosiologi dan linguistik yang mempelajari hubungan antara bahasa dan masyarakat. Cabang ilmu ini membedah bagaimana struktur sosial, budaya, norma, serta faktor demografis memengaruhi cara manusia menggunakan bahasa dalam interaksi nyata.
+
+---
+
+**1. HAKIKAT DAN KEDUDUKAN SOSIOLINGUISTIK**
+
+* **Definisi:** Mengkaji bahasa dalam konteks sosialnya (*language in society*). Jika linguistik murni memandang bahasa sebagai sistem yang terisolasi dan homogen (seperti dalam fonologi atau sintaksis), sosiolinguistik memandang bahasa bersifat majemuk, dinamis, dan tidak lepas dari penuturnya.
+* **Pertanyaan Utama:** Sosiolinguistik menjawab rumusan Joshua Fishman: *"Who speaks what language to whom, when, and to what end?"* (Siapa berbicara bahasa apa kepada siapa, kapan, dan untuk tujuan apa?).
+
+---
+
+**2. KONSEP-KONSEP UTAMA SOSIOLINGUISTIK**
+
+**A. Variasi dan Ragam Bahasa**
+Bahasa tidak pernah tunggal. Perbedaan dalam masyarakat melahirkan variasi bahasa:
+
+* **Idiolek:** Variasi bahasa yang bersifat individual (ciri khas tutur kata seseorang).
+* **Dialek:** Variasi bahasa yang digunakan oleh kelompok masyarakat di wilayah geografis tertentu (misal: Dialek Jawa Solo vs. Dialek Jawa Surabaya).
+* **Sosiolek:** Variasi bahasa yang dipengaruhi oleh kelas sosial, status ekonomi, usia, gender, atau tingkat pendidikan (misal: bahasa kalangan akademisi vs. anak jalanan).
+* **Kronolek/Dialek Temporal:** Variasi bahasa yang digunakan pada masa/era tertentu (misal: bahasa Melayu Balai Pustaka vs. bahasa Indonesia gaul masa kini).
+* **Fungsiolek/Ragam/Register:** Variasi bahasa berdasarkan bidang pemakaian atau profesi (misal: register kedokteran, hukum, atau militer).
+
+**B. Kebahasaan dalam Masyarakat (Masyarakat Bahasa)**
+
+* **Bilingualisme (Dwi-bahasawan):** Kemampuan seseorang/masyarakat menggunakan dua bahasa secara bergantian.
+* **Multilingualisme:** Kemampuan menggunakan lebih dari dua bahasa.
+* **Diglosia:** Situasi dalam masyarakat di mana terdapat dua variasi bahasa yang hidup berdampingan dengan fungsi sosial yang sangat berbeda:
+* *Ragam Tinggi (T):* Digunakan dalam situasi formal, pendidikan, dan pemerintahan (misal: Bahasa Indonesia Baku).
+* *Ragam Rendah (R):* Digunakan dalam situasi informal, pergaulan sehari-hari, dan keluarga (misal: Bahasa Daerah/Bahasa Gaul).
+
+
+
+**C. Alih Kode dan Campur Kode**
+
+* **Alih Kode (*Code Switching*):** Peralihan penggunaan dari satu bahasa/dialek ke bahasa/dialek lain yang terjadi karena perubahan situasi tutur (misal: situasi berubah dari formal ke informal, atau bergantinya mitra tutur).
+* *Contoh:* Dalam rapat formal menggunakan Bahasa Indonesia baku, tetapi saat istirahat minum kopi berganti total menggunakan Bahasa Daerah.
+
+
+* **Campur Kode (*Code Mixing*):** Penyusupan serpihan-serpihan kata, klausa, atau ungkapan dari bahasa lain ke dalam bahasa utama yang sedang digunakan tanpa adanya perubahan situasi tutur.
+* *Contoh:* "Jujur *literally* aku kaget banget pas dengar *news* itu."
+
+
+
+---
+
+**3. FAKTOR SOSIAL PENENTU PENGGUNAAN BAHASA**
+
+Gaya dan variasi bahasa yang dipilih seseorang ditentukan oleh berbagai faktor sosial:
+
+| Faktor Sosial | Dampak terhadap Penggunaan Bahasa |
+| --- | --- |
+| **Status Sosial & Kekuasaan** | Memengaruhi penggunaan bahasa sopan/santun (*deference*) atau kasual. |
+| **Usia & Gender** | Generasi muda cenderung menggunakan *slang*/bahasa gaul; pola tutur pria dan wanita sering memiliki perbedaan karakteristik sintaksis dan intonasi. |
+| **Tingkat Keakraban** | Semakin dekat hubungan antarpenutur, semakin informal variasi bahasa yang digunakan. |
+| **Domain/Ranah Tutur** | Penggunaan bahasa menyesuaikan lokasi dan topik (ranah keluarga, ranah hukum, ranah keagamaan). |
+
+---
+
+**4. KEPUNAHAN DAN PERENCANAAN BAHASA**
+
+* **Kontak Bahasa:** Pertemuan antar-kelompok masyarakat pemakai bahasa berbeda dapat memicu terjadinya **Pijin** (bahasa kontak sederhana untuk perdagangan) dan **Kreol** (pijin yang telah menjadi bahasa ibu bagi generasi penerus).
+* **Pergeseran dan Kepunahan Bahasa (*Language Shift & Death*):** Terjadi ketika suatu masyarakat secara bertahap meninggalkan bahasa ibunya dan beralih menggunakan bahasa dominan/global, yang berujung pada hilangnya penutur asli bahasa daerah tersebut.
+* **Perencanaan Bahasa (*Language Planning*):** Upaya sadar lembaga negara untuk mengatur dan mengembangkan bahasa (seperti pembakuan ejaan, tata bahasa, dan pengembangan kosakata oleh Badan Bahasa).

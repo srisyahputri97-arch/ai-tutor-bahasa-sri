@@ -1,0 +1,55 @@
+leksikografi
+**Leksikografi**
+
+**Leksikografi** adalah cabang linguistik terapan (*applied linguistics*) yang mengkaji prinsip, metode, dan teknik penyusunan kamus (*dictionary making*), glosarium, tesaurus, serta ensiklopedia. Dalam panggung akademis dan pedagogis, leksikografi bertindak sebagai jembatan yang menghubungkan teori semantik, morfologi, serta sosiolinguistik menjadi instrumen praktis untuk inventarisasi kosa kata dan pembakuan bahasa.
+
+---
+
+**1. Tiga Cabang Utama Leksikografi**
+
+Leksikografi terbagi menjadi tiga fokus kajian utama yang saling berhubungan:
+
+* **Leksikografi Teoritis (Leksikologi Terapan):** Menganalisis sejarah perkamusan, struktur makro dan mikro kamus, pemaknaan leksikal, serta tipologi perkamusan.
+* **Leksikografi Praktis:** Proses aktual pengumpulan, pemilihan, analisis, pengolahan, dan penyusunan kata (*leksem*) menjadi sebuah kamus siap pakai.
+* **Leksikografi Komputasi (*Computational Lexicography*):** Pemanfaatan teknologi komputer, analisis korpus data digital (*corpus linguistics*), dan kecerdasan buatan untuk otomatisasi ekstraksi makna, pemrosesan bahasa alami (*NLP*), serta pengembangan kamus digital/elektronik (seperti KBBI Daring).
+
+---
+
+**2. Anatomi dan Struktur Kamus**
+
+Dalam penyusunan kamus akademis, struktur data diorganisasikan ke dalam beberapa tingkatan:
+
+```
+ [ STRUKTUR MAKRO ]  ────────►  [ STRUKTUR MIKRO ]  ────────►  [ STRUKTUR MESO ]
+ (Urutan Lematisasi A-Z)        (Detail Informasi Lema)        (Rujukan Silang / Cross-ref)
+
+```
+
+* **Struktur Makro (*Macrostructure*):** Penataan dan pengurutan entri utama (*lema/kata kepala*) secara alfabetis atau tematis dari awal hingga akhir kamus.
+* **Struktur Mikro (*Microstructure*):** Tata susunan informasi di dalam satu entri lema, yang meliputi:
+* *Pugasan Ejaan & Pelafalan:* Cara penulisan dan pemenggalan kata.
+* *Kelas Kata (Kelas Gramatikal):* Nomina (*n*), verba (*v*), adjektiva (*a*), dll.
+* *Etimologi:* Asal-usul kata (serapan Sanskrit, Arab, Belanda, atau bahasa daerah).
+* *Definisi Semantis:* Penjelasan makna kata (utama, sekunder, dan kiasan).
+* *Konteks Penggunaan:* Contoh kalimat atau label ragam bahasa (cakapan, arkais, hormat, atau spesialisasi bidang ilmu).
+
+
+* **Struktur Meso (*Mesostructure*):** Jaringan rujukan silang (*cross-reference*) yang menghubungkan satu lema dengan lema lainnya (seperti sinosim, antonim, atau varian kata).
+
+---
+
+**3. Tahapan Praktis Penyusunan Kamus (Prosedur Leksikografis)**
+
+1. **Pengumpulan Korpus Data:** Mengumpulkan bahan kata dari sumber tertulis (karya sastra, surat kabar, buku teks) dan lisan (rekaman percakapan).
+2. **Seleksi & Penentuan Lema (Lematisasi):** Menyaring kata-kata yang layak masuk sebagai kata kepala berdasarkan frekuensi penggunaan dan relevansi.
+3. **Redaksi Makna & Deskripsi Gramatikal:** Merumuskan definisi yang presisi, obyektif, tidak berputar-putar (*circular definition*), serta menentukan kelas katanya.
+4. **Uji Validasi & Evaluasi:** Penelaahan oleh pakar kebahasaan (*leksikograf*) sebelum penerbitan.
+
+---
+
+**4. Peran Leksikografi dalam Pengajaran BIPA dan Pendidikan Bahasa**
+
+Dalam pengajaran BIPA dan literasi sastra, hasil kerja leksikografi (seperti kamus ekabahasa, dwibahasa, atau kamus tematis) memiliki fungsi strategis:
+
+* **Standarisasi Diksi:** Menjadi acuan baku bagi pembelajar BIPA untuk membedakan ragam resmi dan informal.
+* **Pengayaan Kosakata Lintas Kultural:** Membantu pembelajar memahami pergeseran makna budaya (*cultural loaded words*) yang tidak memiliki padanan langsung dalam bahasa ibu mereka.

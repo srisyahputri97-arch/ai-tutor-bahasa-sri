@@ -1,0 +1,79 @@
+hakikat_bahasa
+Materi hakikat bahasa mencakup dasar teoretis dan aspek penting yang membedakannya dari sistem komunikasi lainnya.
+
+---
+
+## 1. Definisi dan Konsep Dasar
+
+**Bahasa** adalah sistem lambang bunyi bermakna yang bersifat arbitrer dan konvensional, digunakan oleh anggota kelompok sosial untuk berkomunikasi, mengidentifikasi diri, dan berinteraksi.
+
+* **Etimologi:** Kata *bahasa* berasal dari bahasa Sanskerta *bhāṣā* yang berarti "ucapkan" atau "bicara".
+* **Pandangan Tokoh:**
+* **Ferdinand de Saussure:** Bahasa dibedakan menjadi *langue* (sistem bahasa abstrak yang disepakati masyarakat) dan *parole* (realisasi atau tuturan individu).
+* **Noam Chomsky:** Bahasa adalah sistem tata bahasa generatif yang terdiri dari *competence* (pengetahuan bahasa bawaan dalam otak) dan *performance* (penggunaan nyata bahasa dalam tuturan).
+
+
+
+---
+
+## 2. Karakteristik dan Sifat Hakikat Bahasa
+
+Bahasa memiliki beberapa sifat dasar yang membedakannya dari sistem komunikasi makhluk hidup lain:
+
+| Sifat Hakikat | Penjelasan | Contoh / Implikasi |
+| --- | --- | --- |
+| **1. Bahasa adalah Sistem** | Bahasa memiliki pola dan aturan teratur (sistematis) serta terdiri dari subsistem-subsistem (sistemis). | Kombinasi bunyi /k-a-t-a/ membentuk struktur kata yang valid, bukan acak seperti /a-k-t-a-a/. |
+| **2. Berupa Lambang/Simbol** | Bahasa merepresentasikan konsep, makna, atau objek nyata melalui bentuk ujaran atau tulisan. | Kata "kuda" merujuk pada hewan mamalia berkaki empat yang dapat ditunggangi. |
+| **3. Berupa Bunyi (Vokal)** | Hakikat utama bahasa adalah gelombang suara yang dihasilkan oleh alat ucap manusia (*artikulator*). | Tulisan hanyalah turunan atau rekaman visual dari bunyi ujaran primer. |
+| **4. Arbitrer (Manasuka)** | Tidak ada hubungan alamiah atau logis mutlak antara lambang bunyi dengan objek yang diwakilinya. | Hewan berbulu dan mengeong dinamai *kucing* (Indonesia), *cat* (Inggris), atau *neko* (Jepang). |
+| **5. Konvensional** | Penggunaan bahasa patuh pada norma dan kesepakatan tertulis/tidak tertulis dari masyarakat penutur. | Jika individu mengubah arti kata secara sepihak, komunikasi akan runtuh. |
+| **6. Produktif** | Dengan jumlah fonem dan aturan yang terbatas, manusia dapat menghasilkan kalimat yang tak terbatas. | Dari 26 huruf alfabet dapat dibentuk jutaan frasa dan buku baru setiap hari. |
+| **7. Unik dan Universal** | *Unik:* Memiliki ciri khas tersendiri.<br>
+
+<br>*Universal:* Memiliki ciri umum yang sama di semua bahasa dunia. | *Unik:* Bahasa Indonesia memiliki alofon /k/.<br>
+
+<br>*Universal:* Semua bahasa memiliki vokal, konsonan, dan pola S-P. |
+| **8. Dinamis** | Bahasa terus berkembang, berubah, atau menyerap kata baru seiring perkembangan zaman. | Kemunculan istilah baru seperti *unggah*, *unduh*, *swafoto*, atau *mabar*. |
+| **9. Manusiawi** | Sistem bahasa alami yang kompleks secara biologis dan kognitif hanya milik manusia. | Hewan memiliki sistem komunikasi (seperti tarian lebah), tetapi tidak memiliki tata bahasa generatif. |
+
+---
+
+## 3. Fungsi-Fungsi Bahasa
+
+### A. Fungsi Utama (Roman Jakobson)
+
+1. **Fungsi Emotif:** Mengungkapkan emosi, perasaan, atau kondisi internal penutur.
+2. **Fungsi Konatif:** Memengaruhi tindakan, sikap, atau perilaku pendengar (misal: perintah, bujukan).
+3. **Fungsi Referensial:** Menyampaikan informasi, fakta, atau pengetahuan tentang dunia luar.
+4. **Fungsi Poetik:** Memanfaatkan unsur keindahan atau estetika bahasa (seperti puisi, karya sastra).
+5. **Fungsi Fatis:** Membuka, memelihara, atau mempererat kontak sosial (misal: "Selamat pagi", "Apa kabar?").
+6. **Fungsi Metalingual:** Menggunakan bahasa untuk menjelaskan bahasa itu sendiri (seperti dalam buku tata bahasa atau kamus).
+
+### B. Fungsi Sosio-Kultural
+
+* **Alat Integrasi dan Adaptasi Sosial:** Memungkinkan individu berbaur dan mempelajari norma dalam kelompok masyarakat baru.
+* **Alat Kontrol Sosial:** Mengatur aturan, hukum, norma, dan ketertiban dalam kehidupan bermasyarakat.
+* **Penyimpan dan Pewaris Budaya:** Merekam jejak sejarah, tradisi, dan pengetahuan dari satu generasi ke generasi berikutnya.
+
+---
+
+## 4. Tatanan dan Hirarki Bahasa
+
+Bahasa bekerja secara bertingkat dari satuan terkecil hingga terbesar:
+
+```
+[ Wacana ] ─── Satuan bahasa terbesar & utuh
+   │
+[ Kalimat ] ── Mengungkapkan pikiran utuh (S-P)
+   │
+[ Klausa ] ──── Berpotensi menjadi kalimat
+   │
+[ Frasa ] ───── Gabungan dua kata atau lebih (non-predikatif)
+   │
+[ Kata ] ────── Satuan bebas terkecil yang memiliki makna
+   │
+[ Morfem ] ─── Satuan gramatikal terkecil yang bermakna
+   │
+[ Fonem ] ───── Satuan bunyi terkecil pembeda makna
+
+```

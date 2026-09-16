@@ -1,0 +1,97 @@
+teknik_praktis_menulis_drama
+Berikut adalah rangkuman materi lengkap mengenai **Teknik Praktis Menulis Naskah Drama** yang siap dijadikan dokumen modul atau bahan ajar:
+
+---
+
+**1. PEMAHAMAN DASAR NASKAH DRAMA**
+Naskah drama (*playwright*) adalah karya sastra yang ditulis dalam bentuk dialog dan dirancang khusus untuk dipentaskan. Berbeda dengan novel atau cerpen yang mengandalkan narasi deskriptif, kekuatan utama naskah drama terletak pada **dialog** dan **petunjuk aksi (*kramagung*)**.
+
+---
+
+**2. TAHAP PERSIAPAN (PRA-PENULISAN)**
+
+* **Menentukan Premis Utama:**
+Rumuskan gagasan dasar cerita dalam satu kalimat padat.
+> *Formula:* [Tokoh Utama] + [Tujuan] + [Halangan/Konflik]
+> *Contoh:* Seorang guru di daerah terpencil berjuang mempertahankan sekolahnya di tengah ancaman penggusuran lahan oleh pengembang.
+
+
+* **Riset dan Latar Cerita:**
+Kumpulkan data pendukung terkait latar tempat, masa/era, norma sosial, hingga bahasa dialek tokoh agar dialog terasa hidup dan realistis.
+* **Merancang Profil Tokoh (Character Building):**
+Buat lembar karakter mencakup tiga dimensi:
+* *Fisik:* Usia, jenis kelamin, ciri fisik, cara berpakaian.
+* *Sosiologis:* Status sosial, pekerjaan, pendidikan, latar belakang keluarga.
+* *Psikologis:* Karakter/watak, ambisi, ketakutan terbesar, kebiasaan unik.
+
+
+
+---
+
+**3. STRUKTUR DRAMA (3-ACT STRUCTURE)**
+
+* **Babak I: Orientasi / Pengenalan (Setup)**
+* Memperkenalkan tokoh, latar tempat/waktu, dan situasi awal.
+* *Inciting Incident:* Peristiwa pemicu yang merusak keseimbangan hidup tokoh utama dan memulai konflik.
+
+
+* **Babak II: Komplikasi / Eskalasi Konflik (Rising Action)**
+* Tokoh berusaha mengatasi masalah, namun halangan (*obstacle*) justru makin bertambah berat.
+* Terjadi pertentangan antar-tokoh (konflik eksternal) atau pertentangan batin (konflik internal).
+
+
+* **Babak III: Klimaks dan Penyelesaian (Climax & Resolution)**
+* *Klimaks:* Puncak ketegangan tertinggi di mana keputusan kritis diambil oleh tokoh utama.
+* *Peleraian (Falling Action):* Dampak dari keputusan di klimaks mulai terlihat.
+* *Resolusi:* Akhir cerita (bahagia, tragis, atau gantung) dan penataan kembali situasi baru.
+
+
+
+---
+
+**4. TEKNIK MENULIS DIALOG DAN KRAMAGUNG**
+
+* **Prinsip Dialog Efektif:**
+* *Show, Don't Tell:* Hindari dialog yang menjelaskan sesuatu secara eksplisit jika bisa ditunjukkan melalui aksi.
+* *Subteks:* Makna tersirat di balik ucapan tokoh. Karakter tidak selalu mengatakan apa yang sebenarnya mereka rasakan.
+* *Diksi Khas:* Sesuaikan gaya bahasa dan kosakata dengan profil latar belakang tokoh.
+
+
+* **Petunjuk Aksi (*Kramagung*):**
+Teks dalam kurung yang memberi instruksi gerak, ekspresi, atau blocking panggung bagi aktor dan sutradara. Tulis secara singkat dan fokus pada aksi fisik/emosi penting.
+
+---
+
+**5. FORMAT STANDAR PENULISAN NASKAH DRAMA**
+
+> **JUDUL NASKAH**
+> Karya: [Nama Penulis]
+> **DAFTAR TOKOH:**
+> 1. **PAK DIRMAN (50 tahun):** Kepala sekolah yang tegas namun penyayang.
+> 2. **RUDI (17 tahun):** Murid berprestasi, cerdas, namun emosional.
+> 
+> 
+> ---
+> 
+> 
+> **BABAK 1**
+> **ADEGAN 1**
+> **SETTING:** Ruang kepala sekolah yang penuh tumpukan buku dan piala tua. Suasana siang hari yang terik.
+> *(Latar belakang terdengar suara deru mesin buldoser dari jauh. PAK DIRMAN duduk di balik meja, memandangi piala sekolah dengan tatapan cemas. RUDI masuk tanpa mengetuk pintu, napasnya terengah-engah.)*
+> **RUDI**
+> *(Menunjuk ke arah jendela)*
+> Pak! Mereka sudah membawa alat berat ke gerbang depan!
+> **PAK DIRMAN**
+> *(Tetap tenang, perlahan meletakkan pialanya)*
+> Duduklah dulu, Rudi. Ambil napasmu.
+> **RUDI**
+> Bagaimana bisa tenang, Pak? Sekolah kita akan digusur sejam lagi!
+> *(Pak Dirman berdiri, berjalan mendekati jendela, lalu menghela napas panjang.)*
+
+---
+
+**6. LANGKAH REVISI DAN EVALUASI**
+
+1. **Uji Baca Nyaring (*Table Read*):** Bacakan dialog secara nyaring untuk mengecek apakah kalimat terasa alami saat diucapkan.
+2. **Pangkas Pengulangan:** Hapus dialog yang bertele-tele atau tidak mendorong pergerakan alur cerita.
+3. **Cek Konsistensi Karakter:** Pastikan tindakan dan ucapan tokoh tetap selaras dengan perkembangan karakter dari awal hingga akhir.

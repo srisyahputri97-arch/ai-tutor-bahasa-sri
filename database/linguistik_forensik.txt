@@ -1,0 +1,57 @@
+linguistik_forensik
+**Linguistik Forensik**
+
+**Linguistik forensik** adalah cabang ilmu linguistik terapan (*applied linguistics*) yang mempelajari interaksi antara bahasa, teks, dan hukum. Dalam ranah akademis dan praktis, linguistik forensik berfungsi sebagai alat analisis kebahasaan untuk pembuktian hukum, baik dalam tahap penyelidikan pidana, persidangan di pengadilan, maupun pembuatan regulasi perundang-undangan.
+
+---
+
+**1. Tiga Fokus Utama Kajian Linguistik Forensik**
+
+* **Bahasa dari Hukum (*Language of the Law*):**
+* Menganalisis keterbacaan, kerancuan, dan ambiguitas dalam naskah hukum (seperti undang-undang, kontrak kerja, atau surat perjanjian).
+* Mempelajari registers dan jargon akademis-hukum (*legalese*) yang berpotensi memicu salah tafsir masyarakat luas.
+
+
+* **Bahasa dalam Proses Hukum (*Language in the Legal Process*):**
+* Menganalisis struktur wacana dan interaksi kebahasaan di ruang sidang, pemeriksaan kepolisian, atau intonasi interogasi saksi/tersangka.
+* Menilai kesahihan pengakuan dan hak-hak berbahasa bagi saksi/korban (termasuk kebutuhan penerjemah bagi penutur asing/pembelajar BIPA atau penyandang disabilitas).
+
+
+* **Bahasa sebagai Bukti (*Language as Evidence*):**
+* Memeriksa barang bukti teks (seperti surat ancaman, unggahan media sosial, ujaran kebencian, pencemaran nama baik, atau tuduhan plagiarisme).
+* Mengidentifikasi identitas atau profil penulisan naskah (*authorship attribution*) berdasarkan gaya kebahasaan khas (*idiolek*).
+
+
+
+---
+
+**2. Teknik Analisis Kebahasaan dalam Linguistik Forensik**
+
+```
+                       [ TEKNIK ANALISIS FORENSIK ]
+                                    │
+         ┌──────────────────────────┼───────────────────────────┐
+         ▼                          ▼                           ▼
+  [ DIALEKTOLEK & IDIOLEK ]  [ PHONETIK FORENSIK ]     [ PRAGMATIK WACANA ]
+  - Sidik jari kebahasaan    - Analisis nada suara     - Tindak tutur (Speech Acts)
+  - Pilihan kata khas        - Spektrogram vokal       - Konteks & Implikatur
+
+```
+
+1. **Identifikasi Penulis (*Authorship Identification*):** Menggunakan analisis *idiolek* (pola tata bahasa, ejaan unik, serta pilihan diksi spesifik seseorang) untuk menentukan apakah dua dokumen anonim ditulis oleh orang yang sama.
+2. **Fonetik Forensik (*Forensic Phonetics*):** Menganalisis rekaman suara pembicaraan untuk mengidentifikasi karakteristik vokal, aksen, atau rekayasa rekaman audio dalam bukti persidangan.
+3. **Analisis Pragmatik & Tindak Tutur (*Speech Act Analysis*):** Menganalisis maksud ujaran (*illocutionary force*) untuk membuktikan unsur pidana seperti ancaman, pemerasan, penghinaan, atau penyuapan berdasarkan teori *Lokusi-Ilokusi-Perlokusi*.
+
+---
+
+**3. Contoh Kasus Penerapan di Indonesia**
+
+* **Pencemaran Nama Baik & Ujaran Kebencian (UU ITE):** Ahli linguistik forensik dihadirkan untuk menganalisis apakah suatu kalimat dalam unggahan media sosial mengandung unsur penghinaan (*denotatif vs. konotatif*) atau sekadar kritik objektif.
+* **Analisis Plagiarisme Akademis:** Membandingkan tingkat kemiripan idiolek dan struktur naskah ilmiah untuk membuktikan kecurangan hak cipta atau pencurian karya tulis secara ilegal.
+
+---
+
+**4. Relevansi dalam Pengajaran BIPA dan Kebijakan Bahasa**
+
+* **Perlindungan Hak Pembelajar Asing:** Dalam konteks peradilan yang melibatkan penutur asing (seperti pemegang visa BIPA atau pekerja asing), linguistik forensik memastikan pentingnya penyediaan penerjemah yang tersertifikasi agar tidak terjadi kesalahpahaman hak-hak hukum akibat keterbatasan bahasa.
+* **Pembakuan Diksi Kontrak & Regulasi:** Menguji keterbacaan bahan ajar, naskah ujian nasional, atau kurikulum BIPA agar terbebas dari bias budaya dan ambiguitas struktur kalimat.

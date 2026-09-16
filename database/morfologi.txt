@@ -1,0 +1,107 @@
+Morfologi merupakan cabang linguistik yang mengkaji struktur internal kata, unit-unit pembentuknya, serta proses pembentukannya.
+
+---
+
+### Bab I: Hakikat Morfologi dan Konsep Dasar
+
+#### 1. Pengertian Morfologi
+
+Morfologi berasal dari kata *morphe* (bentuk) dan *logos* (ilmu). Secara linguistik, morfologi adalah cabang tata bahasa yang mempelajari morfem dan kombinasi-kombinasinya untuk membentuk kata.
+
+#### 2. Kedudukan Morfologi dalam Linguistik
+
+Hierarki tata bahasa dalam ilmu linguistik tersusun sebagai berikut:
+
+
+$$\text{Fonem} \longrightarrow \mathbf{\text{Morfem / Kata (Morfologi)}} \longrightarrow \text{Frasa / Klausa / Kalimat (Sintaksis)}$$
+
+Morfologi menjembatani bidang **fonologi** (satuan bunyi tanpa makna) dan **sintaksis** (penataan kata dalam kalimat).
+
+---
+
+### Bab II: Morfem, Morf, dan Alomorf
+
+#### 1. Satuan-Satuan Analisis
+
+* **Morfem:** Satuan gramatikal terkecil yang memiliki makna (baik makna leksikal maupun gramatikal). Contoh: *baca*, *meN-*.
+* **Morf:** Wujud konkret atau realisasi phonis/grafis dari suatu morfem.
+* **Alomorf:** Variasi bentuk dari suatu morfem akibat lingkungan phonologisnya.
+
+> **Contoh Alomorf Morfem *meN-***:
+> * *me-* (jika bertemu fonem /l, r, m, n/ $\rightarrow$ *melihat*)
+> * *mem-* (jika bertemu fonem /b, p, f/ $\rightarrow$ *membaca*)
+> * *men-* (jika bertemu fonem /d, t, c, j/ $\rightarrow$ *mendengar*)
+> * *meng-* (jika bertemu fonem /a, e, i, o, u, g, k, h/ $\rightarrow$ *mengambil*)
+> 
+> 
+
+#### 2. Klasifikasi Morfem
+
+| Klasifikasi | Jenis Morfem | Deskripsi & Contoh |
+| --- | --- | --- |
+| **Berdasarkan Keotonomian** | **Morfem Bebas** | Dapat berdiri sendiri sebagai kata. <br>
+
+<br>*Contoh:* *makan*, *rumah*, *tidur*. |
+|  | **Morfem Terikat** | Tidak dapat berdiri sendiri, harus bergabung dengan morfem lain. <br>
+
+<br>*Contoh:* *ber-*, *di-*, *-kan*, *juang*. |
+| **Berdasarkan Makna** | **Morfem Leksikal** | Memiliki makna riil atau konsep dunia nyata. <br>
+
+<br>*Contoh:* *kucing*, *air*, *lari*. |
+|  | **Morfem Gramatikal** | Hanya memiliki fungsi gramatikal (makna timbul setelah proses morfologi). <br>
+
+<br>*Contoh:* *me-*, *ter-*, *dan*, *ke*. |
+
+---
+
+### Bab III: Proses Morfologis Utama
+
+Proses morfologis adalah pembentukan kata derivatif atau inflektif melalui penggabungan morfem.
+
+#### 1. Afiksasi (Pengimbuhan)
+
+Afiksasi adalah proses pembentukan kata dengan menambahkan afiks (imbuhan) pada bentuk dasar.
+
+* **Prefiks (Awalan):** Posisi di awal (*ber-*, *me-*, *di-*, *ter-*, *pe-*). Contoh: *ber- + lari* $\rightarrow$ **berlari**.
+* **Sufiks (Akhiran):** Posisi di akhir (*-an*, *-kan*, *-i*). Contoh: *makan + -an* $\rightarrow$ **makanan**.
+* **Infiks (Sisipan):** Posisi di dalam kata (*-el-*, *-em-*, *-er-*). Contoh: *tunjuk + -el-* $\rightarrow$ **telunjuk**.
+* **Konfiks (Awalan-Akhiran Bersama):** Diapit prefiks dan sufiks secara sekaligus. Contoh: *ke- -an + adil* $\rightarrow$ **keadilan**.
+
+#### 2. Reduplikasi (Pengulangan)
+
+Proses pengulangan bentuk dasar.
+
+* **Reduplikasi Penuh:** Pengulangan seluruh bentuk dasar. (Contoh: *buku-buku*)
+* **Reduplikasi Sebagian:** Pengulangan sebagian bentuk dasar. (Contoh: *leluhur*, *dedaunan*)
+* **Reduplikasi Berimbuhan:** Pengulangan disertai penambahan afiks. (Contoh: *berjalan-jalan*)
+* **Reduplikasi Salin Swara:** Pengulangan dengan perubahan bunyi. (Contoh: *lauk-pauk*, *bolak-balik*)
+
+#### 3. Komposisi (Pemajemukan)
+
+Penggabungan dua kata atau lebih yang membentuk satu kesatuan makna baru.
+
+* *Rumah sakit* (Bukan "rumah yang sakit", melainkan gedung perawatan medis).
+* *Matahari*, *kambing hitam*, *meja hijau*.
+
+---
+
+### Bab IV: Proses Morfologis Sekunder & Kontemporer
+
+Selain proses utama, bahasa Indonesia mengalami perkembangan proses pembentukan kata modern:
+
+* **Abreviasi (Pemendekan):** Penghilangan bagian dari leksem (e.g., *lab* $\leftarrow$ *laboratorium*).
+* **Akronim:** Singkatan yang dilafalkan sebagai kata yang wajar. (e.g., *Pemilu* $\leftarrow$ *Pemilihan Umum*, *Radar* $\leftarrow$ *Radio Detection and Ranging*).
+* **Penggalan:** Pemotongan bagian leksem. (e.g., *Prof* $\leftarrow$ *Profesor*, *Pak* $\leftarrow$ *Bapak*).
+
+---
+
+### Bab V: Perubahan Makna & Morphofonemik
+
+#### Morfofonemik
+
+Morfofonemik adalah peristiwa berubahnya fonem akibat pertemuan morfem. Perubahan ini meliputi:
+
+1. **Pemunculan Fonem:** *meN- + baca* $\rightarrow$ *me**m**baca* (muncul fonem /m/).
+2. **Pelepasan Fonem:** *ber- + renang* $\rightarrow$ *be-renang* (fonem /r/ pada prefiks luluh).
+3. **Peluluhan Fonem:** *meN- + sapu* $\rightarrow$ *me-nyapu* (fonem /s/ luluh menjadi /ñ/).
+4. **Perubahan Fonem:** *ber- + ajar* $\rightarrow$ *bel-ajar* (fonem /r/ berubah menjadi /l/).

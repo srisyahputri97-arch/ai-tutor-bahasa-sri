@@ -1,0 +1,82 @@
+cara_penulisan_artikel_jurnal
+**Cara Penulisan Artikel Jurnal Ilmiah**
+
+Artikel jurnal ilmiah merupakan bentuk ringkas dan padat dari laporan hasil penelitian atau kajian pemikiran kritis yang ditujukan untuk dipublikasikan pada terbitan berkala ilmiah. Berbeda dari skripsi, tesis, atau laporan akademis biasa, penulisan artikel jurnal menuntut efisiensi ruang, ketajaman pembahasan, serta kepatuhan ketat terhadap *Author Guidelines* (Petunjuk Penulis) dan gaya selingkung jurnal sasaran.
+
+---
+
+**1. Tahap Pra-Penulisan (Pemetaan & Target Jurnal)**
+
+* **Menentukan Target Jurnal (*Journal Targeting*):** Tentukan jurnal yang dituju sebelum menulis untuk menyesuaikan gaya selingkung, ruang lingkup (*scope*), batas jumlah kata, serta format sitasi.
+* **Merumuskan *Novelty* (Keterbaruan):** Tentukan poin keterbaruan atau kontribusi keilmuan yang membedakan artikel Anda dari penelitian-penelitian sebelumnya.
+* **Menyusun Ringkasan Data:** Siapkan tabel, grafik, atau data statistik yang sudah diolah untuk dijadikan sajian visual dalam artikel.
+
+---
+
+**2. Struktur Utama Artikel Jurnal (Pola IMRAD)**
+
+Sebagian besar jurnal ilmiah terakreditasi nasional (Sinta) maupun internasional (Scopus/Web of Science) menggunakan struktur standar **IMRAD** (*Introduction, Methods, Results, and Discussion*):
+
+```
+ [ JUDUL, AFILIASI & ABSTRAK ]
+  (Identitas & Ringkasan Eksekutif)
+               │
+               ▼
+ [ I - INTRODUCTION ] ────────► Latar Belakang, State of the Art, Gap Analysis, & Tujuan
+               │
+               ▼
+ [ M - METHODS ] ─────────────► Desain, Subjek/Data, Instrumen, & Teknik Analisis
+               │
+               ▼
+ [ R - RESULTS ] ─────────────► Temuan Data Objektif (Tabel, Grafik, & Narasi Ringkas)
+               │
+               ▼
+ [ A - AND ]
+               │
+               ▼
+ [ D - DISCUSSION ] ──────────► Analisis Kritis, Komparasi Literatur, & Implikasi Teoretis
+               │
+               ▼
+ [ KESIMPULAN & PUSTAKA ] ───► Sintesis Akhir, Keterbatasan, & Daftar Rujukan
+
+```
+
+**A. Bagian Identitas**
+
+* **Judul Artikel:** Luwes, spesifik, mencerminkan isu utama, dan idealnya terdiri dari 10–15 kata. Hindari judul yang terlalu berbelit-belit.
+* **Baris Kepemilikan (*Authorship & Affiliation*):** Nama lengkap penulis (tanpa gelar akademis), nama instansi/universitas, serta email penulis korespondensi (*corresponding author*).
+* **Abstrak & Kata Kunci:** Ditulis dalam satu paragraf (150–250 kata) mencakup: *Masalah/Tujuan $\rightarrow$ Metode $\rightarrow$ Hasil Utama $\rightarrow$ Implikasi/Simpulan*. Disertai 3–5 kata kunci (*keywords*) yang mudah terindeks mesin pencari.
+
+**B. Bagian Batang Tubuh**
+
+* **Pendahuluan (*Introduction*):**
+1. *Latar Belakang & Konteks:* Gambaran umum isu yang diteliti.
+2. *State of the Art:* Tinjauan singkat literatur terkini untuk menunjukkan peta penelitian saat ini.
+3. *Gap Analysis:* Menunjukkan celah keilmuan atau masalah yang belum terselesaikan oleh penelitian sebelumnya.
+4. *Tujuan & Novelty:* Pernyataan tegas mengenai tujuan artikel dan kontribusi kebaruannya.
+
+
+* **Metode (*Methods*):** Dijelaskan secara lugas dan sistematis agar dapat diuji ulang (*reproducible*) oleh peneliti lain. Berisi pendekatan penelitian, sumber data/korpus, instrumen, dan prosedur analisis data.
+* **Hasil (*Results*):** Menyajikan temuan empiris secara netral dan objektif. Gunakan tabel atau visualisasi data untuk menyederhanakan penyampaian, diikuti narasi penjelasan tanpa mengulang angka/data yang ada di tabel secara verbatim.
+* **Pembahasan (*Discussion*):** Merupakan bagian paling berbobot. Penulis wajib:
+* Menginterpretasikan makna temuan hasil penelitian.
+* Membandingkan temuan dengan teori dan penelitian terdahulu (apakah mendukung, menolak, atau memperluas).
+* Menjelaskan implikasi teoretis maupun praktis dari temuan tersebut.
+
+
+
+**C. Bagian Akhir**
+
+* **Kesimpulan (*Conclusion*):** Menjawab tujuan penelitian secara padat (bukan sekadar merangkum isi hasil), menyebutkan keterbatasan penelitian, serta memberikan saran untuk penelitian masa depan.
+* **Ucapan Terima Kasih (*Acknowledgments*):** Pernyataan apresiasi opsional kepada penyandang dana (*funder*), lembaga, atau pihak yang membantu penelitian.
+* **Daftar Pustaka (*References*):** Menggunakan sumber rujukan primer (minimal 80% berupa jurnal ilmiah 5–10 tahun terakhir) yang dikelola menggunakan aplikasi manajemen referensi (seperti Mendeley atau Zotero).
+
+---
+
+**3. Checklist Kualitas Artikel Jurnal**
+
+| Aspek | Indikator Keberhasilan |
+| --- | --- |
+| **Keterbacaan** | Kalimat efektif, paragraf padu, dan bebas dari kesalahan ejaan/tata bahasa. |
+| **Sitasi** | Mengikuti gaya selingkung jurnal (APA, IEEE, Chicago, dll.) dan konsisten. |
+| **Etika Publikasi** | Bebas plagiarisme (tingkat kemiripan/similarity index biasanya di bawah 15–20%), tidak ada fabrikasi/falsifikasi data, dan tanpa *double submission*. |

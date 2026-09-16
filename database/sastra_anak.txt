@@ -1,0 +1,47 @@
+sastra_anak
+**Sastra Anak**
+
+**Sastra anak** adalah cabang kesusastraan yang secara khusus ditulis, dirancang, dan ditujukan untuk pembaca anak-anak sesuai dengan tingkatan perkembangan kognitif, emosional, serta kebahasaan mereka. Dalam ranah akademis dan pedagogis, sastra anak berfungsi tidak hanya sebagai media hiburan (*rekreatif*), tetapi juga sebagai sarana pembentukan karakter, penanaman empati, eksplorasi bahasa, dan stimulasi imajinasi awal.
+
+---
+
+**1. Hakikat dan Fungsi Sastra Anak**
+
+* **Fungsi Edukatif & Moral:** Menginternalisasikan nilai-nilai etika, kejujuran, kerja sama, dan apresiasi budaya tanpa terkesan menggurui (*didaktis implisit*).
+* **Fungsi Personal & Kognitif:** Membantu anak memahami identitas diri, mengelola emosi (seperti rasa takut atau gembira), serta mengembangkan daya nalar kritis.
+* **Fungsi Estetis & Bahasa:** Memperkaya kosakata, mengenalkan struktur wacana cerita, dan menumbuhkan rasa cinta literasi sejak dini.
+
+---
+
+**2. Genre dan Tipologi Sastra Anak**
+
+| Genre Sastra Anak | Karakteristik Utama | Contoh Bentuk / Karya |
+| --- | --- | --- |
+| **Buku Bergambar (*Picture Books*)** | Teks dan ilustrasi visual saling melengkapi secara seimbang untuk membangun makna cerita. | Buku bergambar cerita rakyat, buku konsep (*angka/warna*). |
+| **Fabel & Dongeng (*Fairy Tales*)** | Menggunakan tokoh binatang berperilaku seperti manusia atau unsur keajaiban/imajinatif. | *Si Kancil*, cerita rakyat Nusantara (misal: *Bawang Merah Bawang Putih*). |
+| **Fiksi Historis & Realistis** | Mengangkat masalah kehidupan nyata anak-anak (persahabatan, sekolah, keluarga) atau latar sejarah. | Cerita petualangan anak, kisah perjuangan lokal. |
+| **Puisi Anak & Sajak Berirama** | Menekankan keteraturan rima, permainan bunyi (*onomatope*), irama yang ceria, dan lirik pendek. | Puisi anak karya Taufiq Ismail, A.T. Mahmud, atau D. Zawawi Imron. |
+
+---
+
+**3. Pemetaan Sastra Anak Berdasarkan Perkembangan Pembaca**
+
+```
+ [ USIA 0 - 3 TAHUN ]            [ USIA 4 - 7 TAHUN ]            [ USIA 8 - 12 TAHUN ]
+ (Usia Dini / Early Years)      (Pemula / Early Reader)        (Lanjut / Middle Grade)
+ ┌────────────────────────┐     ┌────────────────────────┐     ┌────────────────────────┐
+ │ - Board Books / Cloth  │     │ - Buku Bergambar/Rima  │     │ - Novel Bab (Chapter)  │
+ │ - Teks Sangat Minimum  │ ──► │ - Kalimat Sederhana    │ ──► │ - Konflik Kompleks     │
+ │ - Eksplorasi Visual    │     │ - Alur Linier Terang   │     │ - Tema Persahabatan    │
+ └────────────────────────┘     └────────────────────────┘     └────────────────────────┘
+
+```
+
+---
+
+**4. Integrasi Sastra Anak dalam Pengajaran BIPA dan Pendidikan Dasar**
+
+Dalam pembelajaran bahasa (termasuk program BIPA tingkat pemula **BIPA 1–2**), sastra anak sering dimanfaatkan sebagai **bahan ajar otentik yang adaptif**:
+
+* **Kemudahan Struktur Bahasa:** Menggunakan pola kalimat sederhana dan kosakata frekuensi tinggi yang mempermudah pemahaman pembelajar asing.
+* **Jembatan Budaya (*Cultural Gateway*):** Dongeng dan cerita rakyat anak mengenalkan mitologi, kearifan lokal, dan norma sosial Indonesia secara intuitif dan menyenangkan.

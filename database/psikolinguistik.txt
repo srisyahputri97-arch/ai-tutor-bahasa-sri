@@ -1,0 +1,82 @@
+psikolinguistik
+Psikolinguistik adalah cabang ilmu interdisipliner yang menggabungkan psikologi dan linguistik untuk mempelajari mekanisme mental dan biologis yang memungkinkan manusia memperoleh, memahami, memproduksi, dan menggunakan bahasa.
+
+Jika sosiolinguistik mengkaji hubungan bahasa dengan lingkungan sosial luar, psikolinguistik berfokus pada **proses internal di dalam otak dan pikiran manusia**.
+
+---
+
+**1. HAKIKAT DAN PROSES UTAMA PSIKOLINGUISTIK**
+
+Kajian psikolinguistik secara umum terbagi ke dalam tiga proses mental utama:
+
+* **Pemahaman Bahasa (*Language Comprehension*):** Bagaimana otak memproses gelombang suara atau tulisan yang diterima indra menjadi makna yang dapat dipahami.
+* **Produksi Bahasa (*Language Production*):** Bagaimana pemikiran, ide, atau emosi dikonversi oleh otak menjadi struktur kalimat dan diubah menjadi gerakan motorik alat ucap/tangan.
+* **Pemerolehan Bahasa (*Language Acquisition*):** Bagaimana manusia (terutama anak-anak) secara alami belajar dan menguasai bahasa pertamanya.
+
+---
+
+**2. PEMEROLEHAN BAHASA (LANGUAGE ACQUISITION)**
+
+Salah satu perdebatan paling mendasar dalam psikolinguistik adalah bagaimana anak-anak bisa menguasai bahasa yang sangat kompleks dalam waktu singkat.
+
+* **Teori Nativisme (Noam Chomsky):**
+* Manusia lahir membawa potensi bawaan biologis yang disebut **LAD** (*Language Acquisition Device*).
+* Bahasa dianggap bukan sekadar hasil belajar dari lingkungan, melainkan pematangan kapasitas bawaan genetik yang dipicu oleh input bahasa di sekitarnya.
+
+
+* **Teori Behaviorisme (B.F. Skinner):**
+* Bahasa diperoleh melalui proses pemodelan, imitasi (peniruan), pengulangan, dan penguatan (*reinforcement*) dari lingkungan sekitar.
+
+
+* **Teori Kognitivisme (Jean Piaget) & Interaksionisme (Vygotsky):**
+* Perkembangan bahasa anak berjalan seiring dengan perkembangan kognitif dan interaksi sosialnya dengan lingkungan.
+
+
+
+**Tahapan Pemerolehan Bahasa pada Anak:**
+
+1. *Vokalisasi / Babbling* (0–6 bulan): Mencekit, tertawa, dan mengeluarkan bunyi vokal tanpa makna.
+2. *Tahap Satu Kata / Holofrastis* (12–18 bulan): Satu kata mewakili satu kalimat utuh (misal: "Mium" untuk "Saya mau minum").
+3. *Tahap Dua Kata / Telegrafis* (18–24 bulan): Menggabungkan dua kata tanpa kata tugas (misal: "Buku ayah", "Makan pisang").
+4. *Kalimat Kompleks* (2+ tahun): Penguasaan tata bahasa, afiksasi, dan struktur kalimat secara bertahap.
+
+---
+
+**3. LANDASAN NEUROLOGIS BAHASA (NEUROlinguistik)**
+
+Otak manusia memiliki area-area khusus yang bertanggung jawab atas pemrosesan bahasa, yang umumnya terletak di belahan otak kiri (*hemisfer kiri*):
+
+```
+                     [ Area Wernicke ]  ---> Pemahaman Makna
+                            │
+                            ▼
+                     [ Busur Arkus ]    ---> Jalur Penghubung
+                            │
+                            ▼
+                       [ Area Broca ]   ---> Formasi & Produksi Perkataan
+
+```
+
+* **Area Broca:** Terletak di lobus frontalis. Berfungsi mengatur artikulasi, tata bahasa, dan produksi bicara.
+* **Area Wernicke:** Terletak di lobus temporalis. Berfungsi memproses pemahaman dan pemaknaan bahasa.
+* **Arcuate Fasciculus (Busur Arkus):** Jaringan saraf yang menghubungkan Area Wernicke dan Area Broca.
+
+---
+
+**4. GANGGUAN DAN KELAINAN BERBAHASA (LANGUAGE DISORDERS)**
+
+Psikolinguistik juga mempelajari gangguan berbahasa yang disebabkan oleh kerusakan otak fisik maupun faktor psikologis:
+
+| Jenis Gangguan | Penyebab Utama | Gejala Utama |
+| --- | --- | --- |
+| **Afasia Broca (Motorik)** | Kerusakan pada Area Broca (misal akibat stroke). | Pembicara paham maksud orang lain, tetapi **sulit memproduksi kata-kata**; bicaranya patah-patah dan tidak lancar. |
+| **Afasia Wernicke (Sensorik)** | Kerusakan pada Area Wernicke. | Pembicara lancar mengucapkan kata-kata, namun **ujarannya tidak bermakna** (omong kosong) dan sulit memahami ucapan orang lain. |
+| **Aksia / Disleksia** | Gangguan pada proses saraf membaca di otak. | Kesulitan mengenali huruf, merangkai bunyi vokal/konsonan, atau membaca teks tertulis. |
+| **Gagap (*Stuttering*)** | Gangguan koordinasi motorik bicaranya. | Pengulangan atau pemanjangan bunyi/suku kata yang tidak disengaja. |
+
+---
+
+**5. PROSES MENTAL DALAM TUTURAN**
+
+* **Slip of the Tongue (Kilas Lidah):** Kesalahan tidak disengaja dalam memproduksi tuturan yang mengungkap bagaimana otak menyimpan dan mengorganisasi kata (misal: ingin mengucapkan *"piring terbang"* tetapi terucap *"terbang piring"*).
+* **Tip of the Tongue (Fenomena di Ujung Lidah):** Kondisi saat seseorang yakin mengetahui suatu kata dan maknanya, tetapi otak sementara waktu gagal mengingat bentuk bunyi/artikulasi kata tersebut.

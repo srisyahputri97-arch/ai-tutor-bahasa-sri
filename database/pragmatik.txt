@@ -1,0 +1,109 @@
+pragmatik
+Pragmatik adalah cabang ilmu linguistik yang mempelajari bagaimana konteks mempengaruhi makna tuturan. Berbeda dari semantik yang mengkaji makna lingual murni (makna kamus atau struktur), pragmatik mengkaji **makna komunikatif** atau maksud pembicara (*speaker's meaning*) dalam situasi tutur tertentu.
+
+---
+
+**1. HAKIKAT DAN PERBEDAAN PRAGMATIK VS SEMANTIK**
+
+* **Definisi:** Pragmatik adalah ilmu yang mempelajari hubungan antara tanda bahasa dan penggunanya dalam konteks komunikasi nyata.
+* **Fokus Utama:** Pragmatik menjawab pertanyaan: *"Apa yang sebenarnya dimaksudkan oleh pembicara saat mengucapkan kalimat ini dalam situasi tersebut?"*
+
+**Perbandingan Contoh Semantik vs Pragmatik:**
+
+> Tuturan: **"Di sini panas sekali."**
+> * **Makna Semantis:** Suhu udara di ruangan tempat pembicara berada tergolong tinggi.
+> * **Makna Pragmatis:** Bergantung konteks. Bisa bermakna perintah terselubung: *"Tolong nyalakan AC/kipas angin!"* atau permintaan: *"Bisa tolong buka jendelanya?"*
+> 
+> 
+
+---
+
+**2. UNSUR-UNSUR TRIPLE DARI TRADISI TUTUR (KONTEKS TUTURAN)**
+
+Dalam analisis pragmatik, tuturan tidak terlepas dari situasi tutur (*speech situation*). Unsur-unsur pembentuk situasi tutur meliputi:
+
+1. **Penutur (Speaker) dan Mitra Tutur (Hearer):** Siapa yang berbicara dan siapa yang diajak bicara (termasuk hubungan sosial, usia, dan status di antara keduanya).
+2. **Konteks Tuturan:** Latar fisik, sosial, psikologis, dan pengetahuan bersama (*background knowledge*) yang dimiliki penutur dan mitra tutur.
+3. **Tujuan Tuturan:** Maksud atau fungsi yang ingin dicapai melalui tuturan tersebut.
+4. **Tindakan/Amanat:** Bentuk verbal atau nonverbal yang disampaikan.
+
+---
+
+**3. KONSEP UTAMA DALAM PRAGMATIK**
+
+**A. Deiksis (Deixis)**
+Deiksis adalah kata atau frasa yang acuannya berpindah-pindah atau berubah-ubah tergantung pada siapa, kapan, dan di mana tuturan itu diucapkan.
+
+* **Deiksis Persona:** Menunjuk pada partisipan tutur (*saya, kamu, dia, mereka*).
+* **Deiksis Tempat:** Menunjuk pada lokasi tuturan (*di sini, di sana, kemari*).
+* **Deiksis Waktu:** Menunjuk pada waktu tuturan (*sekarang, besok, kemarin, dua hari lalu*).
+* **Deiksis Wacana:** Menunjuk pada bagian tertentu dalam wacana/teks (*hal di atas, seperti yang dijelaskan sebelumnya*).
+* **Deiksis Sosial:** Menunjuk pada tingkatan sosial atau kesopanan (*Bapak, Ibu, Yang Mulia, kamu vs Anda*).
+
+**B. Tindak Tutur (Speech Acts)**
+Teori yang dipelopori oleh J.L. Austin dan dikembangkan oleh John Searle ini menyatakan bahwa saat seseorang mengucapkan sesuatu, ia juga melakukan suatu tindakan.
+
+Tindak tutur dibagi menjadi tiga tingkatan:
+
+1. **Lokusional (Lokusi):** Tindakan mengucapkan sesuatu dengan arti harfiah (sebatas kata/kalimat itu sendiri).
+2. **Ilokusional (Ilokusi):** Tindakan yang ingin dicapai melalui tuturan tersebut (maksud/fungsi tuturan).
+3. **Perlokusional (Perlokusi):** Efek atau akibat yang ditimbulkan oleh tuturan terhadap mitra tutur (tindakan lanjutan dari pendengar).
+
+*Klasifikasi Tindak Tutur Ilokusi (John Searle):*
+
+* **Aseratif / Deklaratif:** Menyatakan kebenaran (*menyatakan, mengusulkan, melaporkan*).
+* **Direktif:** Meminta mitra tutur melakukan sesuatu (*menyuruh, memohon, menyarankan*).
+* **Komisif:** Mengikat penutur untuk melakukan tindakan di masa depan (*berjanji, bersumpah, mengancam*).
+* **Ekspresif:** Mengungkapkan perasaan atau sikap psikologis (*berterima kasih, meminta maaf, menyelamati*).
+* **Deklarasi:** Perubahan status sosial/hukum secara langsung lewat tuturan (*menikahkan, memecat, membaptis*).
+
+**C. Implikatur Percakapan (Conversational Implicature)**
+Implikatur adalah maksud tersirat yang ingin disampaikan penutur tetapi tidak dinyatakan secara eksplisit dalam tuturan.
+
+> *Contoh:*
+> **A:** "Apakah kamu mau pergi nonton bioskop malam ini?"
+> **B:** "Aku ada ujian besok pagi."
+> *Implikatur:* B secara tersirat menolak ajakan A karena harus belajar untuk ujian.
+
+**D. Presuposisi (Praanggapan)**
+Presuposisi adalah asumsi atau pengetahuan dasar yang diandaikan benar oleh penutur sebelum ia menyampaikan tuturan.
+
+> *Contoh:*
+> Tuturan: **"Mobil baru Budi rusak lagi."**
+> *Presuposisi (Praanggapan):* Budi memiliki mobil, mobil itu masih baru, dan mobil itu pernah rusak sebelumnya.
+
+---
+
+**4. PRINSIP PERCAKAPAN (GRICEAN MAXIMS)**
+
+Paul Grice mengemukakan bahwa agar percakapan berjalan lancar, para peserta tutur harus mematuhi **Prinsip Kerja Sama** (*Cooperative Principle*) yang terbagi menjadi 4 Maksim Percakapan:
+
+| Maksim | Aturan Utama | Contoh Pelanggaran / Pelanggaran Maksim |
+| --- | --- | --- |
+| **Maksim Kuantitas** | Berikan informasi secukupnya (tidak kurang, tidak berlebihan). | A: "Di mana rumahmu?"<br>
+
+<br>B: "Di bumi, di bawah langit." *(Terlalu sedikit/tidak informatif)* |
+| **Maksim Kualitas** | Sampaikan hal yang benar; jangan katakan hal yang diyakini salah atau tidak ada buktinya. | Menyampaikan rumor bohong sebagai fakta. |
+| **Maksim Relevansi** | Sampaikan informasi yang relevan dengan topik pembicaraan. | A: "Berapa hasil pertandingan bola tadi?"<br>
+
+<br>B: "Harga beras sedang naik." *(Tidak relevan)* |
+| **Maksim Cara (Manner)** | Sampaikan informasi secara jelas, tidak kabur, tidak ambigu, dan runtut. | Menggunakan istilah medis yang sangat rumit kepada awam tanpa penjelasan. |
+
+---
+
+**5. PRINSIP KESOPANAN (POLITENESS PRINCIPLE)**
+
+Disamping prinsip kerja sama, komunikasi ditunjang oleh prinsip kesopanan untuk menjaga hubungan sosial.
+
+* **Prinsip Kesopanan Leech (6 Maksim):**
+1. *Maksim Kebijaksanaan (Tact Maxim):* Kurangi kerugian orang lain, maksimalkan keuntungan orang lain.
+2. *Maksim Kedermawanan (Generosity Maxim):* Kurangi keuntungan diri sendiri, maksimalkan kerugian diri sendiri.
+3. *Maksim Penghargaan (Approbation Maxim):* Kurangi celaan pada orang lain, maksimalkan pujian pada orang lain.
+4. *Maksim Kesederhanaan (Modesty Maxim):* Kurangi pujian pada diri sendiri, maksimalkan celaan pada diri sendiri.
+5. *Maksim Pemufakatan (Agreement Maxim):* Kurangi ketidaksepakatan dengan orang lain, maksimalkan kesepakatan.
+6. *Maksim Kesimpatian (Sympathy Maxim):* Kurangi rasa antipati, maksimalkan rasa simpati pada orang lain.
+
+
+* **Teori Muka (Face Theory - Brown & Levinson):**
+* **Muka Positif:** Keinginan setiap orang agar dirinya, keinginannya, atau nilainya disukai dan diterima oleh orang lain.
+* **Muka Negatif:** Keinginan setiap orang agar kebebasannya untuk bertindak tidak dihalangi atau diganggu oleh orang lain.

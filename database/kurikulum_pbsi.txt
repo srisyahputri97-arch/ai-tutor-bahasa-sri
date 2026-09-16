@@ -1,0 +1,44 @@
+kurikulum_pbsi
+**Perkembangan dan Keanekaragaman Kurikulum Bahasa Indonesia**
+
+Kurikulum dalam pendidikan kebahasaan dan kesusastraan Indonesia berfungsi sebagai pedoman sistematis yang mengatur tujuan, isi, materi pembelajaran, serta metode evaluasi yang digunakan di lembaga formal. Dalam perjalanan sejarahnya di Indonesia, kurikulum telah mengalami pergeseran paradigma, mulai dari yang berfokus pada struktur tata bahasa (preskriptif) hingga pendekatan yang menekankan kompetensi komunikatif, berbasis teks, dan fleksibilitas kontekstual.
+
+---
+
+**1. Perkembangan Kurikulum Pendidikan di Indonesia**
+
+* **Kurikulum berbasis Tata Bahasa & Struktur (1968–1975):** Berfokus pada penguasaan aturan kebahasaan, analisis pola kalimat, serta penghafalan definisi dan teori sastra secara linier.
+* **Kurikulum Berbasis Berkomunikasi / CBSA (1984–1994):** Menggeser fokus dari hafalan teori menuju keterampilan aktif berbahasa (menyimak, berbicara, membaca, dan menulis) serta keterlibatan aktif siswa dalam proses belajar.
+* **Kurikulum Berbasis Kompetensi (KBK 2004) & KTSP (2006):** Menekankan pada pencapaian standar kompetensi kebahasaan dan memberikan otonomi kepada satuan pendidikan untuk mengembangkan silabus sesuai kondisi daerah masing-masing.
+* **Kurikulum 2013 (K-13):** Menerapkan **Pendekatan Berbasis Teks (*Genre-Based Approach*)** dan pendekatan saintifik (*5M: Mengamati, Menanya, Mengumpulkan Informasi, Menalar, Mengomunikasikan*). Bahasa Indonesia diposisikan sebagai penghela ilmu pengetahuan.
+* **Kurikulum Merdeka:** Menerapkan pembelajaran terdiferensiasi berbasis Capaian Pembelajaran (CP) dan *Fase* perkembangan siswa (Fase A hingga F). Mendorong kebebasan eksplorasi teks, penguatan literasi critical thinking, serta proyek penguatan profil pelajar.
+
+---
+
+**2. Struktur Kurikulum Kebahasaan Berbasis Teks (Genre-Based)**
+
+Dalam rancangan kurikulum modern (seperti K-13 dan Kurikulum Merdeka), pengajaran Bahasa Indonesia diorganisasikan berdasarkan genre teks. Teks dipandang sebagai satuan bahasa yang membawa makna dalam konteks sosial tertentu.
+
+* **Genre Teks Tipe Naratif / Sastra:** Mengembangkan kepekaan emosional, estetika, dan imajinasi melalui pembedahan dan penulisan Teks Cerpen, Novel, Hikayat, Puisi, dan Drama.
+* **Genre Teks Tipe Faktual & Akademis:** Melatih logika dan analisis objektif melalui Teks Laporan Hasil Observasi (LHO), Eksplanasi, Eksposisi, Prosedur, dan Artikel Ilmiah.
+* **Genre Teks Tipe Evaluatif & Argumen:** Mengembangkan kritis-analitis melalui Teks Diskusi, Debat, Editorial, Ulasan (*Resensi*), dan Kritik Sastra.
+
+---
+
+**3. Kurikulum BIPA (Bahasa Indonesia bagi Penutur Asing)**
+
+Berbeda dari kurikulum penutur jati (native), kurikulum BIPA dirancang khusus berdasarkan tingkat kemahiran berbahasa asing (mengacu pada standar UKBI dan CEFR).
+
+```
+ [ BIPA 1 - 2 ]                 [ BIPA 3 - 4 ]                 [ BIPA 5 - 7 ]
+ (Tingkat Pemula)               (Tingkat Madya)                (Tingkat Mahir)
+ ┌────────────────────────┐     ┌────────────────────────┐     ┌────────────────────────┐
+ │ - Komunikasi Harian    │     │ - Teks Diskusi & Opini │     │ - Teks Akademis/Sains  │
+ │ - Transaksi Sosial     │ ──► │ - Paparan Kultural     │ ──► │ - Analisis Sastra      │
+ │ - Ungkalat Dasar       │     │ - Struktur Bahasa Baku │     │ - Wacana Lintas Budaya │
+ └────────────────────────┘     └────────────────────────┘     └────────────────────────┘
+
+```
+
+* **Target Kompetensi:** Disesuaikan dari komunikasi tingkat bertahan hidup (*survival skills*) hingga kemampuan menyusun naskah akademik/ilmiah dan mengapresiasi sastra Indonesia secara kritis.
+* **Integrasi Kultural:** Kurikulum BIPA secara eksplisit menyisipkan capaian pembelajaran lintas budaya (*intercultural competence*) di setiap jenjang kemahiran.

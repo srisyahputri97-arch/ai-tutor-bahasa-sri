@@ -1,0 +1,61 @@
+cara_menyunting_teks
+**Cara Menyunting Teks**
+
+Menyunting teks (*text editing*) adalah proses mengidentifikasi, memutus, dan memperbaiki kesalahan dalam naskah untuk meningkatkan kejelasan, kerapian, ketepatan tata bahasa, serta keterbacaan (*readability*) tanpa merusak gaya penulisan atau makna asli pengarang. Proses penyuntingan dilakukan secara bertahap, mulai dari ranah gagasan hingga detail mekanis.
+
+---
+
+**1. Empat Tahapan Penyuntingan Teks**
+
+Proses penyuntingan yang efektif tidak dilakukan sekaligus, melainkan dibagi ke dalam empat tingkatan (*levels of editing*):
+
+* **Penyuntingan Substansial / Substantif (*Substantive Editing*):**
+* Memeriksa keutuhan struktur, kelogisan alur gagasan, dan kecukupan data/bukti.
+* Memastikan tidak ada bagian yang kontradiktif, berulang-ulang (*redundant*), atau melenceng dari fokus/pembahasan utama.
+
+
+* **Penyuntingan Stilistika / Gaya Bahasa (*Stylistic Editing*):**
+* Memperbaiki kefasihan dan keterbacaan kalimat agar tidak terkesan kaku atau berbelit-belit.
+* Mengubah kalimat pasif yang tidak efektif menjadi kalimat aktif yang dinamis serta menyesuaikan nada (*tone*) sesuai calon pembaca target.
+
+
+* **Penyuntingan Kebahasaan / Mekanis (*Copyediting*):**
+* Memeriksa ketepatan ejaan (Ejaan Bahasa Indonesia yang Disempurnakan/EYD), penggunaan tanda baca, huruf kapital, dan pemenggalan kata.
+* Memastikan kesesuaian struktur tata bahasa (pilihan diksi, konjungsi wacana, serta keefektifan kalimat).
+
+
+* **Koreksi Aksara (*Proofreading*):**
+* Tahap akhir untuk mengeliminasi kesalahan ketik (*typo*), format margin, konsistensi jenis huruf (*font*), penomoran, dan tata letak halaman (*layout*).
+
+
+
+---
+
+**2. Langkah Praktis Menyunting Teks (Prosedur Kerja)**
+
+```
+ [ PEMBACAAN AWAL ] ──────► [ PENYUNTINGAN ISI ] ──────► [ PENYUNTINGAN MEKANIS ] ──────► [ PROOFREADING ]
+ (Membaca Utuh Teks)        (Kelogisan & Alur)          (EYD, Tata Bahasa, Diksi)        (Typo & Format)
+
+```
+
+1. **Lakukan Pembacaan Awal secara Menyeluruh (*Macro-Reading*):** Baca seluruh naskah tanpa corat-coret terlebih dahulu untuk memahami konteks, pesan utama, dan struktur umum cerita/tulisan.
+2. **Endapkan Teks (*Distillation Period*):** Istirahatkan naskah sejenak agar Anda bisa menelitinya kembali dengan sudut pandang yang obyektif (*fresh eye*).
+3. **Penyuntingan Per Paragraf dan Kalimat (*Micro-Reading*):**
+* *Uji Keefektifan Kalimat:* Pangkas kata-kata mubazir (seperti *"adalah merupakan"*, *"sangat sekali"*, atau *"dalam rangka untuk"*).
+* *Periksa Kohesi:* Pastikan penghubung antar-paragraf dan antar-kalimat berjalan mulus menggunakan konjungsi yang tepat.
+
+
+4. **Pembacaan Nyaring (*Read Aloud*):** Bacakan teks secara bersuara untuk mendeteksi kalimat yang terlalu panjang, ritme yang ganjil, atau tanda baca koma yang salah letak.
+
+---
+
+**3. Lembar Ceklist Utama Penyuntingan**
+
+| Aspek Pemeriksaan | Indikator Bebas Kesalahan |
+| --- | --- |
+| **Ejaan & Kapitalisasi** | Sesuai aturan EYD terbaru (nama diri, gelar, istilah asing dicetak miring). |
+| **Tanda Baca** | Penggunaan koma, titik, tanda petik, dan hubung berfungsi tepat. |
+| **Pilihan Kata (Diksi)** | Baku, kontekstual, dan tidak ambigu. |
+| **Keefektifan Kalimat** | Memiliki subjek dan predikat yang jelas; tidak menggantung (*fragment*). |
+| **Konsistensi** | Konsisten dalam gaya selingkung, istilah teknis, dan format penulisan. |

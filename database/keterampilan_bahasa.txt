@@ -1,0 +1,85 @@
+keterampilan_bahasa
+Keterampilan berbahasa adalah kemampuan dasar yang dimiliki seseorang untuk berkomunikasi secara efektif menggunakan media bahasa. Dalam linguistik dan pendidikan bahasa, keterampilan berbahasa terbagi menjadi **empat komponen utama** yang saling berhubungan dan dikelompokkan ke dalam dua dimensi: **reseptif (penerimaan)** dan **produktif (pengasilan)**, serta **lisan** dan **tulis**.
+
+---
+
+## 1. Empat Pilar Keterampilan Berbahasa
+
+```
+                       [ KETERAMPILAN BERBAHASA ]
+                                   │
+         ┌─────────────────────────┴─────────────────────────┐
+         ▼                                                   ▼
+  [ MATA RANTAI LISAN ]                               [ MATA RANTAI TULIS ]
+  - Menyimak (Reseptif)                                - Membaca (Reseptif)
+  - Berbicara (Produktif)                              - Menulis (Produktif)
+
+```
+
+| Keterampilan | Media | Sifat | Proses Utama |
+| --- | --- | --- | --- |
+| **Menyimak / Mendengar** | Lisan | Reseptif (Penerimaan) | Memahami, menginterpretasi, dan mengevaluasi lambang-lambang lisan. |
+| **Berbicara** | Lisan | Produktif (Pengasilan) | Menyampaikan gagasan, pesan, atau emosi menggunakan bunyi-bunyi artikulasi. |
+| **Membaca** | Tulis | Reseptif (Penerimaan) | Memahami lambang-lambang visual/tulisan untuk memperoleh makna atau informasi. |
+| **Menulis** | Tulis | Produktif (Pengasilan) | Mengekspresikan gagasan, pikiran, atau perasaan dalam bentuk tulisan yang terstruktur. |
+
+---
+
+## 2. Penjelasan Rinci Setiap Keterampilan
+
+### A. Keterampilan Menyimak (*Listening Skill*)
+
+Menyimak bukan sekadar mendengarkan (*hearing*). Mendengarkan adalah proses fisik menerima gelombang suara, sedangkan menyimak adalah proses mental yang melibatkan perhatian, pemahaman, apresiasi, dan evaluasi terhadap pesan lisan.
+
+* **Tahapan Menyimak:** Mendengar → Memperhatikan → Memahami → Menginterpretasi → Menilai → Merespons.
+* **Jenis Menyimak:**
+* *Menyimak Ekstensif:* Menyimak hal-hal umum tanpa pengawasan langsung (misal: radio, berita TV).
+* *Menyimak Intensif:* Menyimak secara mendalam untuk tujuan kritis/akademis (misal: menyimak kuliah, debat).
+
+
+
+### B. Keterampilan Berbicara (*Speaking Skill*)
+
+Kemampuan mengucapkan bunyi-bunyi artikulasi atau kata-kata untuk mengekspresikan, menyatakan, serta menyampaikan pikiran, gagasan, dan perasaan kepada lawan tutur.
+
+* **Faktor Penentu Keberhasilan:**
+* *Kebahasaan:* Ketepatan ucapan/artikulasi, pilihan kata (diksi), struktur kalimat, dan intonasi.
+* *Nonkebahasaan:* Kontak mata, ekspresi wajah, gestur tubuh, kelancaran, dan kejelasan materi.
+
+
+* **Bentuk Berbicara:** Pidato, presentasi, diskusi kelompok, wawancara, dan percakapan interpersonal.
+
+### C. Keterampilan Membaca (*Reading Skill*)
+
+Proses pengolahan teks visual untuk mengekstrak makna yang disampaikan oleh penulis. Membaca melibatkan persepsi visual serta pengolahan kognitif.
+
+* **Jenis-Jenis Membaca:**
+* *Membaca Nyaring (*Reading Aloud*):* Membaca dengan suara keras untuk melatih pelafalan dan intonasi.
+* *Membaca Dalam Hati (*Silent Reading*):* Membaca tanpa bersuara untuk pemahaman makna mendalam.
+* *Membaca Cepat (Scanning & Skimming):* *Scanning* (mencari informasi spesifik seperti kata/angka) dan *skimming* (mencari gagasan utama secara cepat).
+* *Membaca Kritis:* Mengidentifikasi fakta vs opini, menganalisis argumen, dan menilai keabsahan teks.
+
+
+
+### D. Keterampilan Menulis (*Writing Skill*)
+
+Keterampilan berbahasa paling kompleks karena menuntut penguasaan berbagai unsur kebahasaan sekaligus—mulai dari ejaan, kosakata, struktur kalimat, kohesi, koherensi, hingga organisasi gagasan.
+
+* **Tahapan Proses Menulis:**
+1. *Pra-menulis:* Penentuan topik, pemetaan ide, dan pengumpulan bahan.
+2. *Drafting:* Menyusun karangan awal secara mengalir.
+3. *Revisi & Editing:* Memperbaiki struktur isi, diksi, serta penerapan ejaan/tata bahasa (PUEBI/EYD).
+4. *Publikasi:* Menyajikan tulisan akhir kepada pembaca.
+
+
+
+---
+
+## 3. Hubungan Antar-Keterampilan Berbahasa
+
+Keterampilan berbahasa tidak berdiri sendiri, melainkan saling memengaruhi secara hierarkis dan fungsional:
+
+1. **Hubungan Menyimak dan Berbicara:** Menyimak adalah modal dasar untuk berbicara. Seorang anak belajar berbicara dari apa yang ia simak dari lingkungannya (B1).
+2. **Hubungan Membaca dan Menulis:** Membaca menyediakan bahan, gagasan, dan model struktur kalimat yang dibutuhkan untuk kegiatan menulis. Penulis yang baik biasanya adalah pembaca yang aktif.
+3. **Hubungan Menyimak dan Membaca:** Keduanya merupakan keterampilan reseptif yang bertujuan untuk memahami informasi dari sumber luar.
+4. **Hubungan Berbicara dan Menulis:** Keduanya merupakan keterampilan produktif yang bertujuan mengekspresikan pikiran secara terstruktur.

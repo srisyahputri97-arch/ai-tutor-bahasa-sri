@@ -1,0 +1,48 @@
+ekranisasi_sastra
+**Ekranisasi Sastra**
+
+**Ekranisasi** (berasal dari bahasa Prancis *écran* yang berarti layar) adalah proses pelayarlebaran atau pemindahan/penyesuaian karya sastra (seperti novel, cerpen, atau drama) ke dalam media film. Istilah ini dipopulerkan dalam kajian sastra Indonesia oleh **Pamusuk Eneste**. Ekranisasi bukan sekadar proses penerjemahan harfiah dari teks tulisan ke visual, melainkan sebuah proses transformasi antar-wahana (*alih wahana*) yang melibatkan perubahan media dari verbal-tekstual yang mengandalkan imajinasi pembaca menjadi audio-visual yang mengandalkan persepsi indrawi.
+
+---
+
+**1. Tiga Bentuk Perubahan dalam Ekranisasi (Teori Pamusuk Eneste)**
+
+Proses alih media dari novel ke film selalu membawa konsekuensi perubahan struktur naratif yang dikelompokkan ke dalam tiga kategori utama:
+
+* **Penciutan (Pengurangan / *Omission*):** Pemotongan atau penghilangan bagian-bagian dalam novel (seperti tokoh pembantu, adegan latar, cerita sampingan, atau dialog panjang) yang dianggap tidak terlalu krusial agar sesuai dengan durasi tayang film yang terbatas (umumnya 90–120 menit).
+* **Penambahan (*Addition*):** Memasukkan unsur-unsur baru dalam film yang sebelumnya tidak ada dalam teks asli (seperti penambahan tokoh baru, adegan aksi, atau dialog) untuk memperkuat drama visual, memberikan penekanan emosional, atau menyesuaikan dengan selera penonton bioskop.
+* **Perubahan Bervariasi (*Variation*):** Modifikasi atas unsur-unsur sastra, seperti perubahan alur (dari linier menjadi kilas balik), pergeseran latar tempat/waktu, atau penyesuaian sifat dan nasib tokoh akibat perbedaan kualitatif antara media tulisan dan media audio-visual.
+
+---
+
+**2. Matriks Perbandingan Media: Sastra vs. Film**
+
+| Aspek Kajian | Sastra (Novel / Cerpen) | Film (Hasil Ekranisasi) |
+| --- | --- | --- |
+| **Media Utama** | Teks tertulis (kata, kalimat, paragraf). | Audio-visual (gambar bergerak, suara, musik, efek visual). |
+| **Keterlibatan Pembaca/Penonton** | Mengandalkan imajinasi dan daya reka pembaca. | Mengandalkan pancaindra (penglihatan dan pendengaran). |
+| **Penyampaian Batin Tokoh** | Deskripsi naratif panjang dan monolog dalam (*stream of consciousness*). | Ekspresi wajah, bahasa tubuh, sinematografi, dan *voice-over*. |
+| **Hak Cipta & Kreativitas** | Karya individual pengarang (*author*). | Karya kolaboratif (sutradara, penulis skenario, produser, dan aktor). |
+
+---
+
+**3. Contoh Karya Ekranisasi Monumental dalam Sastra Indonesia**
+
+```
+ [ NOVEL / KARYA SASTRA ]                   [ HASIL EKRANISASI FILM ]
+ ┌────────────────────────────────────┐     ┌────────────────────────────────────┐
+ │ - Bumi Manusia (Pramoedya A. T.)   │ ──► │ - Bumi Manusia (Dir. Hanung B.)    │
+ │ - Laskar Pelangi (Andrea Hirata)   │ ──► │ - Laskar Pelangi (Dir. Riri Riza)  │
+ │ - Tenggelamnya Kapal van der Wijck │ ──► │ - Tenggelamnya Kapal van der Wijck │
+ └────────────────────────────────────┘     └────────────────────────────────────┘
+
+```
+
+---
+
+**4. Relevansi Ekranisasi dalam Pengajaran BIPA dan Sastra**
+
+Dalam kurikulum BIPA tingkat mahir (**BIPA 5–7**), bahan ajar berbasis layar lebar dan ekranisasi memiliki nilai pedagogis strategis:
+
+* **Analisis Komparatif Antar-Wahana:** Pembelajar diajak membandingkan teks novel asli dengan versi filmnya untuk melatih pemahaman membaca kritis dan apresiasi estetika visual.
+* **Stimulasi Resepsi Kebudayaan:** Film hasil layar lebar memberikan konteks visual yang utuh mengenai latar sosial, busana, gestur kesantunan, dan kondisi geografis Indonesia yang abstrak jika hanya dibaca melalui naskah sastra.

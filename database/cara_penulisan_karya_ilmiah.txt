@@ -1,0 +1,57 @@
+cara_penulisan_karya_ilmiah
+**Cara Penulisan Karya Ilmiah**
+
+Penulisan karya ilmiah adalah proses penyusunan naskah akademis yang menyajikan hasil penelitian, kajian teoritis, atau pemikiran kritis secara sistematis, logis, dan objektif. Penulisan karya ilmiah wajib terikat pada kaidah metodologis serta aturan tata bahasa baku (*pedoman ejaan dan gaya selingkung*).
+
+---
+
+**1. Tahap Pra-Penulisan (Perancangan & Metodologi)**
+
+* **Pemilihan Topik & Perumusan Masalah:** Tentukan topik yang spesifik, bernilai kebaruan (*novelty*), dan relevan. Masalah penelitian dirumuskan dalam bentuk pertanyaan penuntun yang jelas.
+* **Studi Literatur (Kajian Pustaka):** Mengumpulkan referensi acuan primernya (jurnal bereputasi, buku teks akademis) untuk memetakan *state of the art* dan kerangka teoritis.
+* **Penetapan Metodologi:** Menentukan pendekatan penelitian (kualitatif, kuantitatif, atau *mixed methods*), teknik pengumpulan data, serta instrumen analisis yang digunakan.
+
+---
+
+**2. Anatomi & Struktur Standar Karya Ilmiah**
+
+Karya ilmiah akademis (seperti artikel jurnal, skripsi, atau makalah) umumnya mengadopsi pola standar **IMRAD** (*Introduction, Methods, Results, and Discussion*) atau struktur bab konvensional:
+
+```
+ [ JUDUL & ABSTRAK ]  ────►  [ PENDAHULUAN ]  ────►  [ METODE PENELITIAN ]
+  (Ringkasan Eksekutif)       (Latar Belakang & Rumusan)   (Desain, Data, Analisis)
+                                                                  │
+ [ KESIMPULAN & PUSTAKA ] ◄── [ HASIL & PEMBAHASAN ] ◄────────────┘
+  (Sintesis & Daftar Rujukan) (Temuan Data & Analisis Kritis)
+
+```
+
+**A. Bagian Awal**
+
+* **Judul:** Padat, informatif, menggambarkan variabel/subjek utama, dan tidak bermakna ganda.
+* **Abstrak & Kata Kunci:** Ringkasan utuh mencakup tujuan, metode, hasil utama, dan simpulan (biasanya 150–250 kata dalam bahasa Indonesia dan Inggris).
+
+**B. Bagian Utama (Batang Tubuh)**
+
+* **Pendahuluan:** Menguraikan latar belakang masalah, ketimpangan antara teori/harapan dan realitas (*gap analysis*), kebaruan penelitian, urgensi, serta tujuan penelitian.
+* **Kajian Pustaka / Landasan Teori:** Menyajikan teori dan hasil penelitian relevan sebelumnya yang melandasi pisau bedah analisis.
+* **Metode Penelitian:** Menguraikan secara rinci jenis penelitian, populasi/sampel/subjek, teknik pengumpulan data, dan tahapan analisis data agar dapat direplikasi oleh peneliti lain.
+* **Hasil dan Pembahasan:**
+* *Hasil:* Menyajikan data temuan secara objektif (dapat dibantu dengan **Tabel** atau **Grafik**).
+* *Pembahasan:* Menganalisis temuan data dengan mengaitkannya pada teori dan penelitian terdahulu yang ada di kajian pustaka.
+
+
+* **Penutup (Kesimpulan & Saran):** Menyajikan jawaban atas rumusan masalah secara singkat-padat serta memberikan saran praktis atau rekomendasi penelitian lanjutan.
+
+**C. Bagian Akhir**
+
+* **Daftar Pustaka / Rujukan:** Menuliskan seluruh referensi yang disitasi menggunakan gaya penulisan acuan standar (misalnya *APA Style 7th Edition* atau *MLA Style*).
+* **Lampiran:** Dokumen pendukung seperti instrumen wawancara, transkrip data, atau lembar validasi.
+
+---
+
+**3. Kaidah Kebahasaan dan Etika Akademis**
+
+* **Penggunaan Ragam Bahasa Objektif:** Gunakan kalimat pasif atau pihak ketiga, serta hindari kata ganti persona pertama (*saya, aku, kami*).
+* **Kejelasan (*Clarity*) & Kepadatan (*Conciseness*):** Susun kalimat secara efektif, lugas, dan bebas dari ambiguitas atau bahasa figuratif/majas.
+* **Integritas Akademis (Pencegahan Plagiarisme):** Setiap gagasan, kutipan, atau data milik orang lain wajib disertai sitasi yang tepat (baik sitasi langsung maupun *paraphrasing*).

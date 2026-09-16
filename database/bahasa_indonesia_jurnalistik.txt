@@ -1,0 +1,52 @@
+bahasa_indonesia_jurnalistik
+**Bahasa Indonesia Jurnalistik**
+
+**Bahasa Indonesia Jurnalistik** adalah variasi ragam bahasa baku yang digunakan oleh insan pers, wartawan, dan media massa (cetak, elektronik, maupun digital) dalam menyusun dan menyampaikan berita atau informasi. Variasi ini dirancang khusus untuk memenuhi kebutuhan penyampaian fakta secara cepat, tepat, dan mudah dipahami oleh pembaca dari beragam latar belakang sosial-pendidikan.
+
+---
+
+**1. Karakteristik Utama Bahasa Jurnalistik**
+
+* **Singkat dan Padat (*Conciseness*):** Mengeliminasi kata-kata mubazir (*pleonasme*) dan langsung menyampaikan inti fakta tanpa berbelit-belit.
+* **Lugas dan Jelas (*Clarity*):** Menggunakan kalimat efektif serta kata-kata bermakna denotatif untuk menghindari ambiguitas atau salah tafsir.
+* **Sederhana dan Komunikatif:** Menggunakan kosakata populer yang umum dikenal masyarakat luas, serta menghindari jargon teknis atau istilah asing yang terlalu rumit.
+* **Jujur dan Objektif:** Menghindari kata-kata yang memuat opini subjektif atau keberpihakan wartawan, serta mengandalkan fakta berupa angka, nama, dan kutipan langsung.
+* **Dinamis dan Menarik:** Menggunakan kata kerja aktif untuk memberikan impresi gerakan dan peristiwa yang sedang berlangsung.
+
+---
+
+**2. Komparasi: Bahasa Akademis vs. Bahasa Jurnalistik**
+
+| Aspek Kebahasaan | Ragam Bahasa Akademis / Ilmiah | Ragam Bahasa Jurnalistik |
+| --- | --- | --- |
+| **Sifat Kalimat** | Kompleks, beranak kalimat, bernuansa pasif. | Pendek, lugas, mengutamakan kalimat aktif. |
+| **Diksi / Kosakata** | Istilah teknis, konseptual, dan teoritis. | Kosakata populer, komunikatif, dan langsung. |
+| **Panjang Paragraf** | Panjang (berisi pengujian argumen padat). | Singkat (1–3 kalimat per paragraf demi keterbacaan). |
+| **Gaya Penulisan** | Deskriptif-analitis dan eksploratif. | Informasi langsung dengan pola *Piramida Terbalik*. |
+
+---
+
+**3. Struktur Teks Berita Jurnalistik (Pola Piramida Terbalik)**
+
+```
+ [ JUDUL BERITA (HEADLINE) ]     ──► Mengikat perhatian & merangkum isu utama
+             │
+             ▼
+ [ TERAS BERITA (LEAD) ]        ──► Memuat unsur 5W+1H (Apa, Siapa, Di mana, Kapan, Mengapa, Bagaimana)
+             │
+             ▼
+ [ TUBUH BERITA (BODY) ]        ──► Uraian kronologis, kutipan narasumber, & data pendukung
+             │
+             ▼
+ [ EKOR BERITA (TAIL) ]         ──► Informasi latar belakang penyerta yang bersifat opsional
+
+```
+
+---
+
+**4. Pemanfaatan Bahasa Jurnalistik dalam Pengajaran BIPA**
+
+Ragam bahasa jurnalistik menjadi bahan ajar otentik (*authentic materials*) berbobot tinggi pada jenjang **BIPA 4 hingga BIPA 6**:
+
+* **Latihan Membaca Cepat (*Scanning & Skimming*):** Struktur piramida terbalik dan teras berita (*lead*) melatih pembelajar asing menemukan fakta utama secara efisien.
+* **Pengayaan Kosakata Aktual:** Teks berita mengenalkan istilah-istilah kebudayaan, politik, ekonomi, dan isu sosial-kemasyarakatan Indonesia yang hidup dan berkembang di masyarakat saat ini.

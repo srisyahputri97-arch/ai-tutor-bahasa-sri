@@ -1,0 +1,42 @@
+jenis_puisi
+**Jenis-Jenis Puisi**
+
+Puisi secara garis besar diklasifikasikan ke dalam dua kategori utama berdasarkan era dan keterikatan strukturnya, yaitu **Puisi Lama** dan **Puisi Baru (Modern)**. Kedua jenis ini memiliki karakteristik, kaidah penulisan, dan fungsi sosial yang berbeda dalam sejarah perpuisian Indonesia.
+
+---
+
+**1. Puisi Lama**
+
+Puisi lama merupakan jenis puisi yang terikat oleh aturan-aturan kaku, seperti jumlah baris dalam satu bait, jumlah suku kata per baris, irama, dan pola rima (persajakan). Kebanyakan puisi lama berkembang dalam tradisi lisan dan bersifat anonim (tidak diketahui pengarangnya).
+
+* **Pantun:** Puisi lama yang terdiri dari empat baris dalam satu bait dengan pola rima a-b-a-b. Baris pertama dan kedua merupakan *sampiran* (pengantar), sedangkan baris ketiga dan keempat merupakan *isi* atau pesan utama.
+* **Gurindam:** Puisi lama yang terdiri dari dua baris dalam satu bait dengan pola rima a-a. Baris pertama berisi soal, masalah, atau syarat, sedangkan baris kedua berisi jawaban, akibat, atau nasihat filosofis.
+* **Syair:** Puisi lama yang berasal dari tradisi Arab-Melayu, terdiri dari empat baris dalam satu bait dengan pola rima a-a-a-a. Berbeda dengan pantun, seluruh baris dalam syair merupakan isi yang mengisahkan suatu cerita atau ajaran moral.
+* **Mantra:** Ucapan berirama yang dianggap memiliki kekuatan gaib atau magis, digunakan dalam ritual adat atau pengobatan tradisional.
+* **Karmina & Seloka:** Karmina merupakan pantun kilat yang hanya terdiri dari dua baris (baris pertama sampiran, baris kedua isi), sedangkan seloka merupakan pantun berangkai yang saling berkaitan antar-baitnya.
+
+---
+
+**2. Puisi Baru (Modern)**
+
+Puisi baru atau puisi modern adalah jenis puisi yang tidak lagi terikat oleh aturan-aturan kaku puisi lama. Puisi baru menekankan kebebasan berekspresi, eksperimentasi bentuk visual (tipografi), pilihan kata (diksi), serta kedalaman makna simbolis.
+
+**A. Berdasarkan Isi dan Nuansa Emosional:**
+
+* **Elegi:** Puisi yang mengungkapkan rasa duka cita, kesedihan, atau ratapan atas kematian, kehilangan, atau penderitaan seseorang.
+* **Epigram:** Puisi yang berisi ajaran moral, petunjuk hidup, atau tuntunan etika bagi pembaca.
+* **Ode:** Puisi sanjungan atau puji-pujian yang ditujukan kepada pahlawan, tokoh terhormat, atau sesuatu yang diagungkan.
+* **Satire:** Puisi yang berisi kritik, sindiran, atau kecaman terhadap ketimpangan sosial, kejahatan, atau kebobrokan penguasa.
+* **Romansa:** Puisi yang mengungkapkan perasaan cinta, kasih sayang, dan keindahan hubungan asmara.
+* **Serenade:** Puisi percintaan yang secara khusus dinyanyikan atau disampaikan pada malam hari.
+
+**B. Berdasarkan Bentuk Jumlah Baris (Klasifikasi Tradisi Modern):**
+
+* **Distikon:** Puisi yang tiap baitnya terdiri dari dua baris.
+* **Terzina:** Puisi yang tiap baitnya terdiri dari tiga baris.
+* **Kuatren:** Puisi yang tiap baitnya terdiri dari empat baris.
+* **Kuint:** Puisi yang tiap baitnya terdiri dari lima baris.
+* **Sektet:** Puisi yang tiap baitnya terdiri dari enam baris.
+* **Septima:** Puisi yang tiap baitnya terdiri dari tujuh baris.
+* **Oktaf / Stanza:** Puisi yang tiap baitnya terdiri dari delapan baris.
+* **Soneta:** Puisi yang terdiri dari empat belas baris, terbagi menjadi dua bait pertama masing-masing empat baris (kuatren) dan dua bait terakhir masing-masing tiga baris (terzina).

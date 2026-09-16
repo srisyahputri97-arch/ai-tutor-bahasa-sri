@@ -1,0 +1,21 @@
+sastra_banding
+**Pendekatan Sastra Banding (Comparative Literature)**
+
+Sastra banding adalah disiplin ilmu sastra yang mengkaji hubungan, keterkaitan, dan pengaruh silang antara dua atau lebih karya sastra dari latar belakang bahasa, bangsa, atau budaya yang berbeda, serta hubungan antara sastra dengan cabang seni atau bidang keilmuan lainnya (seperti musik, seni rupa, filsafat, sosiologi, dan psikologi). Dalam proses pemaknaan, pendekatan ini memandang karya sastra tidak lahir dalam ruang hampa budaya yang terisolasi, melainkan sebagai bagian dari jaringan tradisi intelektual universal. Pemaknaan sastra banding bertujuan untuk menemukan persamaan (*paralelisme*), perbedaan (*kontras*), jejak pengaruh (*influence*), atau transformasi gagasan yang menembus batas-batas geografis dan kebahasaan.
+
+---
+
+**Madzhab Utama dalam Sastra Banding**
+
+Secara historis dan metodologis, praktik sastra banding terbagi menjadi dua kelompok aliran utama yang mendasari kerangka analisisnya:
+
+* **Madzhab Prancis (Aliran Historis-Genetis):** Aliran ini menekankan hubungan kausalitas, bukti sejarah, dan jejak pengaruh langsung (*influence*) dari satu karya/pengarang ke karya/pengarang lain. Analisis berfokus pada bukti empiris bahwa pengarang karya B secara faktual membaca, menerjemahkan, atau terpengaruh oleh karya pengarang A dari bangsa lain.
+* **Madzhab Amerika (Aliran Tipologis & Interdisipliner):** Aliran ini memperluas jangkauan sastra banding dengan tidak mewajibkan adanya hubungan sejarah atau pengaruh langsung. Pembandingan difokuskan pada persamaan bentuk, tema, motif, atau paradigma (tipologi) antarkarya dari berbagai belahan dunia, serta hubungan antardisiplin antara sastra dengan bidang keilmuan lain.
+
+---
+
+**Cakupan dan Bidang Kajian Sastra Banding**
+
+1. **Kajian Antarsastra (Cross-Cultural & Cross-Linguistic):** Membandingkan dua atau lebih karya sastra dari negara, bahasa, atau tradisi budaya yang berbeda (misalnya membandingkan tema tragedi dalam naskah drama *Romeo and Juliet* karya William Shakespeare dari Inggris dengan *Laila Majnun* karya Nizami Ganjavi dari Persia).
+2. **Kajian Interdisipliner (Sastra dan Bidang Lain):** Membandingkan atau menghubungkan karya sastra dengan cabang seni lain (seperti ekranisasi novel menjadi film, atau puisi menjadi musik/musikalisasi) atau dengan disiplin ilmu non-sastra (seperti hubungan narasi sastra dengan teori psikologi, sains, politik, atau filsafat).
+3. **Kajian Penerjemahan dan Resepsi Silang-Budaya:** Menganalisis bagaimana sebuah karya sastra diterjemahkan ke bahasa lain serta bagaimana nilai-nilai estetika dan ideologi karya asing tersebut diterima, diadaptasi, atau ditransformasikan oleh masyarakat penerima.

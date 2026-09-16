@@ -1,0 +1,107 @@
+metode_analisis_sastra
+Metode analisis sastra adalah prosedur atau kerangka kerja sistematis yang digunakan oleh peneliti dan pengkritik sastra untuk membedah, menafsirkan (*interpretasi*), serta menilai makna dan struktur yang terkandung di dalam karya sastra.
+
+Pemilihan metode bergantung pada fokus aspek yang ingin dibedah—seperti struktur internal teks, kondisi psikologis tokoh/pengarang, konteks sosial-budaya, hingga simbol-simbol bahasa.
+
+---
+
+## 1. Metode Analisis Tekstual / Struktural
+
+Metode kelompok ini berfokus pada **karya sastra itu sendiri** sebagai entitas yang mandiri (*otonom*), tanpa menghubungkannya dengan latar belakang pengarang atau realitas sosial di luarnya.
+
+* **Metode Strukturalis Murni:**
+* **Fokus:** Membedah jalinan dan keterkaitan antarunsur intrinsik yang membangun karya (tema, alur, penokohan, latar, sudut pandang, rima, gaya bahasa).
+* **Asumsi:** Karya sastra adalah sebuah sistem yang unsur-unsurnya saling mengikat dan membentuk kesatuan makna.
+
+
+* **Metode Semiotik:**
+* **Fokus:** Menganalisis sistem tanda, simbol, dan ikonisitas di dalam teks sastra.
+* **Prinsip:** Karya sastra dianggap sebagai struktur tanda (menurut Ferdinand de Saussure atau C.S. Pierce) yang memiliki *signifier* (penanda) dan *signified* (petanda), atau makna tingkat pertama (denotasi) dan makna tingkat kedua (konotasi).
+
+
+* **Metode Stilistika:**
+* **Fokus:** Membedah pemakaian bahasa, gaya penulisan, diksi, struktur sintaksis, dan pemanfaatan majas yang digunakan pengarang.
+* **Tujuan:** Mengetahui fungsi estetis dan efek psikologis yang ditimbulkan oleh pilihan kata tertentu.
+
+
+* **Metode Formalisme:**
+* **Fokus:** Mengkaji teknik pengasingan atau pemfokusan (*defamiliarization*) bahasa agar teks biasa terlihat artistik dan berbeda dari bahasa sehari-hari.
+
+
+
+---
+
+## 2. Metode Analisis Kontekstual / Ekstrinsik
+
+Metode kelompok ini mengaitkan karya sastra dengan **faktor-faktor di luar teks**, seperti fenomena sosial, kondisi kejiwaan, atau sejarah.
+
+* **Metode Sosiologi Sastra:**
+* **Fokus:** Menganalisis hubungan antara karya sastra dengan masyarakat.
+* **Cabang Utama:**
+1. *Sosiologi Pengarang:* Mengkaji latar belakang sosial, kelas ekonomi, dan ideologi pengarang.
+2. *Sosiologi Karya:* Mengkaji cerminan struktur sosial, kelas, dan konflik masyarakat di dalam narasi (pendekatan mimetik).
+3. *Sosiologi Pembaca:* Mengkaji penerimaan dan dampak karya bagi masyarakat pembaca.
+
+
+
+
+* **Metode Psikologi Sastra:**
+* **Fokus:** Menganalisis aspek kejiwaan yang terdapat dalam karya sastra.
+* **Penerapan:**
+1. *Psikologi Tokoh:* Membedah konflik batin, dorongan emosi, dan mekanisme pertahanan diri para tokoh menggunakan teori psikoanalisis (misal: *Id, Ego, Superego* dari Sigmund Freud atau *Archetype* dari Carl Jung).
+2. *Psikologi Pengarang:* Menelusuri kejiwaan dan trauma masa lalu pengarang yang tercermin dalam karyanya.
+
+
+
+
+* **Metode Historis / Historisisme:**
+* **Fokus:** Menempatkan karya sastra dalam konteks sejarah, peristiwa politik, atau zaman saat karya tersebut ditulis untuk memahami relevansi maknanya.
+
+
+
+---
+
+## 3. Metode Analisis Kritis & Pascastrukturalis
+
+Metode modern yang berkembang sejak pertengahan abad ke-20 untuk merespons kekakuan metode strukturalis.
+
+* **Metode Dekonstruksi (Jacques Derrida):**
+* **Fokus:** Membongkar hierarki dan konsistensi makna tunggal dalam teks.
+* **Prinsip:** Menunjukkan bahwa teks sastra selalu memiliki kontradiksi internal, celah, dan ketidakpastian makna (*aporia*) yang membuat makna tidak pernah benar-benar stabil.
+
+
+* **Metode Feminisme:**
+* **Fokus:** Mengkritik dan menganalisis bagaimana ketimpangan gender, citra perempuan, serta struktur patriarki dikonstruksi atau dilawan di dalam karya sastra.
+
+
+* **Metode Poskolonialisme:**
+* **Fokus:** Menganalisis jejak-jejak penjajahan, hegemonik budaya Barat, resistensi identitas lokal, serta isu *hybridity* dalam sastra negara-negara bekas jajahan.
+
+
+* **Metode Ekokritik (Ecocriticism):**
+* **Fokus:** Menganalisis hubungan antara manusia dan alam/lingkungan hidup sebagaimana diwakilkan dalam teks sastra (isu kerusakan lingkungan, konservasi, dan eksploitasi alam).
+
+
+
+---
+
+## 4. Metode Resepsi Sastra
+
+* **Metode Resepsi Estetik (Hans Robert Jauss & Wolfgang Iser):**
+* **Fokus:** Meneliti bagaimana pembaca dari berbagai era menerima, menafsirkan, dan memberikan tanggapan terhadap karya sastra.
+* **Konsep Utama:** *Ufuk Harapan* (*Horizon of Expectation*)—pemahaman pembaca ditentukan oleh latar belakang pengetahuan dan pengalaman budaya mereka masing-masing.
+
+
+
+---
+
+## Matriks Ringkasan Metode Analisis Sastra
+
+| Metode | Fokus Utama Kajian | Landasan Teori Utama |
+| --- | --- | --- |
+| **Strukturalis** | Otonomi unsur intrinsik teks | Linguistik Struktural |
+| **Semiotik** | Sistem tanda, kode, dan simbol | Saussure / C.S. Pierce |
+| **Sosiologi Sastra** | Cerminan realitas & kelas sosial | Sosiologi / Marxisme |
+| **Psikologi Sastra** | Konflik kejiwaan & emosi tokoh | Psikoanalisis (Freud/Jung) |
+| **Feminisme** | Dekonstruksi citra gender & patriarki | Teori Gender / Feminisme |
+| **Resepsi Sastra** | Tanggapan & persepsi pembaca | Hermeneutika / Fenomenologi |

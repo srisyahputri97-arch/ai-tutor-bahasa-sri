@@ -1,0 +1,64 @@
+unsur_intrinsik_cerpen
+**Unsur Intrinsik Cerpen**
+
+Unsur intrinsik cerpen (cerita pendek) adalah elemen-elemen pembentuk cerita yang berasal dari dalam teks itu sendiri. Karena sifat cerpen yang berfokus pada pemecahan satu konflik utama secara padat (*single effect*), seluruh unsur intrinsik didesain secara ekonomis dan saling mengikat untuk membangun kesatu-paduan narasi.
+
+---
+
+**1. Tema**
+
+Tema adalah gagasan utama, ide pokok, atau landasan filosofis yang menjadi dasar pengembangan seluruh isi cerita. Tema berfungsi sebagai benang merah yang menghubungkan setiap peristiwa, tindakan tokoh, dan konflik dalam cerpen.
+
+---
+
+**2. Tokoh dan Penokohan**
+
+* **Tokoh:** Individu atau karakter yang mengalami peristiwa dan mengambil bagian dalam alur cerita. Berdasarkan perannya, tokoh dibedakan menjadi *protagonis* (tokoh utama pembawa nilai positif), *antagonis* (tokoh penentang utama), dan *tritagonis* (tokoh pembantu/penengah).
+* **Penokohan (Karakterisasi):** Cara pengarang menggambarkan dan mengembangkan watak atau sifat tokoh. Penggambaran watak dilakukan melalui dua teknik utama:
+* **Teknik Analitis (Direk/Langsung):** Pengarang secara eksplisit menyebutkan watak tokoh (misalnya: *"Budi adalah seorang yang pemberani dan dermawan"*).
+* **Teknik Dramatik (Indirek/Tidak Langsung):** Watak tokoh diungkapkan secara implisit melalui dialog, tindakan fisik, konflik batin, penampilan, lingkungan, atau tanggapan tokoh lain.
+
+
+
+---
+
+**3. Alur (Plot)**
+
+Alur adalah rangkaian peristiwa yang jalin-menjalin berdasarkan hubungan sebab-akibat (*kausalitas*). Alur cerpen umumnya bergerak cepat melalui tahapan konvensional: *Pengenalan (Orientasi) $\rightarrow$ Kemunculan Konflik $\rightarrow$ Puncak Konflik (Klimaks) $\rightarrow$ Peleraian (Antiklimaks) $\rightarrow$ Penyelesaian (Resolusi)*.
+
+Berdasarkan urutan kronologisnya, alur terbagi menjadi:
+
+* **Alur Maju (Maju/Maju-Konvensional):** Peristiwa disajikan secara urut dari awal hingga akhir.
+* **Alur Mundur (Flashback):** Peristiwa dimulai dari masa kini lalu kembali melacak kejadian di masa lalu.
+* **Alur Campuran:** Kombinasi antara alur maju dan mundur yang saling melengkapi.
+
+---
+
+**4. Latar (Setting)**
+
+Latar adalah landasan tempat, waktu, dan suasana terjadinya seluruh rangkaian peristiwa dalam cerpen:
+
+* **Latar Tempat:** Lokasi geografis atau fisik terjadinya peristiwa (misalnya: *ruang kelas, stasiun kereta, tepi sungai*).
+* **Latar Waktu:** Kapan peristiwa itu berlangsung (misalnya: *pagi hari, zaman pendudukan Jepang, pukul tiga sore*).
+* **Latar Suasana/Sosial:** Kondisi psikologis, tatanan budaya, atau atmosfer lingkungan sekitar saat peristiwa terjadi (misalnya: *hening menakutkan, tegang, penuh tradisi adat*).
+
+---
+
+**5. Sudut Pandang (Point of View)**
+
+Sudut pandang adalah posisi atau cara pandang yang dipilih pengarang dalam menyampaikan cerita kepada pembaca:
+
+* **Sudut Pandang Persona Pertama (Orang Pertama):** Pengarang bertindak sebagai tokoh dalam cerita dan menggunakan kata ganti *"Aku"* atau *"Saya"*. Terbagi menjadi *Aku tokoh utama* (cerita berpusat pada dirinya) dan *Aku tokoh tambahan* (menceritakan tokoh lain).
+* **Sudut Pandang Persona Ketiga (Orang Ketiga):** Pengarang berada di luar cerita dan menggunakan kata ganti *"Dia"*, *"Mereka"*, atau nama tokoh. Terbagi menjadi *Orang ketiga serbatahu* (pengarang mengetahui seluruh pikiran dan perasaan batin tokoh) dan *Orang ketiga terlimitasi/pengamat* (pengarang hanya melaporkan apa yang terlihat dan terdengar secara fisik).
+
+---
+
+**6. Gaya Bahasa (Majas)**
+
+Gaya bahasa adalah cara pengarang memanfaatkan pilihan kata (diksi), keindahan kalimat, dan pemakaian majas untuk menghidupkan narasi, menciptakan nada artistik, serta memberi warna emosional pada cerita.
+
+---
+
+**7. Amanat**
+
+Amanat adalah pesan moral, pandangan hidup, atau hikmah yang ingin disampaikan pengarang kepada pembaca melalui penyelesaian konflik dan pengalaman para tokoh dalam cerpen. Amanat dapat disampaikan secara tersurat (eksplisit) maupun tersirat (implisit).

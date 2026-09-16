@@ -1,0 +1,32 @@
+unsur_intrinsik_puisi
+**Unsur Intrinsik Puisi**
+
+Unsur intrinsik puisi adalah elemen-elemen pembentuk dari dalam yang saling mengikat dan membangun keutuhan karya puisi itu sendiri. Secara komprehensif, I.A. Richards membagi unsur intrinsik puisi ke dalam dua struktur utama, yaitu **Struktur Fisik** (media penyampaian estetis yang dapat diamati secara kasat mata/tekstual) dan **Struktur Batin** (hakikat makna dan wacana yang tersirat di dalam puisi).
+
+---
+
+**1. Struktur Fisik Puisi**
+
+Struktur fisik merupakan wahana puitis atau bentuk luar yang digunakan oleh penyair untuk membungkus pesan dan gagasannya:
+
+* **Diksi (Pemilihan Kata):** Cermatnya pemilihan kata oleh penyair yang memperhitungkan aspek makna konotatif, denotatif, keselarasan bunyi, serta daya magis kata. Diksi dalam puisi berfokus pada kepadatan dan keunikan makna.
+* **Pengimajinasian (Imaji):** Kata atau susunan kata yang mampu menggugah indra pembaca (*visual*, *dengar/auditif*, *raba/taktil*), sehingga pembaca seolah-olah melihat, mendengar, atau merasakan secara langsung apa yang dialami penyair.
+* **Kata Konkret:** Kata-kata yang merujuk pada objek nyata atau konkret untuk membangkitkan imaji pembaca. Kata konkret berfungsi sebagai lambang untuk menggambarkan ide yang abstrak (misalnya kata "salju" untuk melambangkan kebekuan jiwa atau kesucian).
+* **Gaya Bahasa (Majas):** Pemanfaatan bahasa figuratif untuk menghidupkan efek estetis, memperkuat makna, dan menciptakan citraan tertentu (misalnya *personifikasi*, *metafora*, *simile*, *ironi*, dan *hiperbola*).
+* **Rima dan Ritme (Persajakan dan Irama):**
+* *Rima:* Pengulangan bunyi bahasa yang sama (baik di awal, tengah, maupun akhir baris) untuk menciptakan efek musikalisasi.
+* *Ritme:* Turun naiknya nada, tekanan, dan panjang-pendek bunyi yang teratur saat puisi dibacakan.
+
+
+* **Tipografi (Perwajahan Puisi):** Bentuk ukiran visual atau tata letak bait, baris, tepi kiri-kanan, hingga penggunaan huruf kapital/kecil dalam puisi. Tipografi memberi batas spasial dan makna simbolis pada pesan yang disampaikan.
+
+---
+
+**2. Struktur Batin Puisi**
+
+Struktur batin merupakan hakikat, jiwa, atau gagasan mendasar yang ingin disampaikan penyair melalui struktur fisiknya:
+
+* **Tema (*Sense*):** Pokok pikiran, gagasan utama, atau pilar filosofis yang menjadi dasar penciptaan puisi secara keseluruhan (misalnya tema ketuhanan, kemanusiaan, cinta kasih, atau kritik sosial).
+* **Rasa (*Feeling*):** Sikap emosional penyair terhadap pokok permasalahan yang diangkat dalam puisinya. Suasana batin penyair (duka, gembira, berontak, pasrah) terpancar langsung melalui penggunaan diksi dan gaya bahasa.
+* **Nada (*Tone*):** Sikap penyair terhadap pembacanya. Nada menentukan suasana pementasan puisi—apakah penyair bersikap menggurui, menasihati, merayu, menggugat, atau bernada lugas-sarkastis.
+* **Amanat (*Intention*):** Pesan, hikmah, ajaran moral, atau tujuan akhir yang ingin dititipkan penyair kepada pembaca setelah mengapresiasi puisi tersebut.

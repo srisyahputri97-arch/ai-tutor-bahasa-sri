@@ -1,0 +1,32 @@
+jenis_prosa
+**Jenis-Jenis Prosa**
+
+Prosa adalah karya sastra naratif yang disampaikan melalui bahasa bebas tanpa terikat oleh aturan bait, rima, atau irama kaku layaknya puisi. Berdasarkan kurun waktu perkembangan, bentuk, dan karakteristik strukturnya, prosa secara garis besar diklasifikasikan ke dalam dua kategori utama: **Prosa Lama** dan **Prosa Baru (Modern)**.
+
+---
+
+**1. Prosa Lama**
+
+Prosa lama merupakan karya sastra prosa yang tumbuh dan berkembang dalam tradisi masyarakat sebelum masuknya pengaruh modernisme Barat. Karakteristik utamanya meliputi sifat anonim (tanpa nama pengarang), disampaikan secara lisan (tradisi tutur), bersifat istana-sentris (berpusat pada kerajaan), serta kaya akan unsur fiktif, fantastis, dan magis.
+
+* **Hikayat:** Cerita rekaan Melayu Klasik yang mengisahkan kehebatan, kesaktian, serta mukjizat para raja, putra-putri kerajaan, atau tokoh suci (misalnya *Hikayat Hang Tuah* dan *Hikayat Si Miskin*).
+* **Dongeng:** Cerita fiktif rakyat yang tidak dianggap benar-benar terjadi oleh masyarakat pemiliknya, berfungsi sebagai hiburan dan penyampai pesan moral. Dongeng terbagi menjadi beberapa jenis:
+* **Fabel:** Dongeng yang menggunakan tokoh hewan yang berperilaku seperti manusia (misalnya *Kisah Si Kancil*).
+* **Mitos (Mite):** Dongeng yang berkaitan dengan kepercayaan terhadap makhluk halus, dewa-dewi, atau hal-hal gaib (misalnya *Mitos Nyi Roro Kidul*).
+* **Legenda:** Dongeng yang dihubungkan dengan asal-usul terjadinya suatu tempat, benda, atau nama daerah (misalnya *Legenda Danau Toba*).
+
+
+* **Babad / Sejarah Lokal:** Prosa lama yang berisi catatan peristiwa sejarah, namun telah bercampur dengan unsur mitos, keajaiban, dan rekaan subjektif (misalnya *Babad Tanah Jawi*).
+* **Tambi / Silsilah:** Catatan silsilah atau asal-usul keluarga raja dan suku bangsa tertentu.
+
+---
+
+**2. Prosa Baru (Modern)**
+
+Prosa baru atau prosa modern adalah karya prosa yang lahir setelah mendapat pengaruh sastra modern Barat dan tradisi cetak. Karakteristik utamanya adalah ditulis secara tertulis oleh pengarang yang jelas, memiliki alur cerita yang rasional/logis, berfokus pada dinamika kehidupan manusia nyata, serta mengeksplorasi konflik psikologis dan sosial.
+
+* **Novel:** Karya prosa naratif yang panjang dan kompleks, mengisahkan kehidupan tokoh utama dengan berbagai konflik sosial atau batin secara mendalam, serta melibatkan banyak latar dan tokoh pembantu.
+* **Cerita Pendek (Cerpen):** Karangan prosa fiksi yang relatif singkat, berfokus pada satu peristiwa tunggal, satu tokoh utama, dan satu pemecahan konflik utama secara padat (*single effect*).
+* **Roman:** Bentuk prosa naratif panjang yang mirip dengan novel, namun secara spesifik mengisahkan kehidupan tokoh-tokohnya secara menyeluruh sejak lahir, dewasa, hingga meninggal dunia, umumnya kental dengan latar adat atau pertentangan kelas (misalnya roman-roman era Balai Pustaka).
+* **Novelet:** Bentuk prosa fiksi yang ukuran panjangnya berada di antara cerpen dan novel (lebih panjang dari cerpen biasa, namun tidak sekompleks novel).
+* **Naskah Biografi / Otobiografi:** Karangan naratif non-fiksi yang mengisahkan riwayat hidup seorang tokoh nyata yang ditulis oleh orang lain (biografi) atau ditulis oleh tokoh itu sendiri (otobiografi).

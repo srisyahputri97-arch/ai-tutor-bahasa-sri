@@ -1,0 +1,25 @@
+sosiologi_sastra
+**Hakikat dan Konsep Sosiologi Sastra**
+
+Sosiologi sastra adalah disiplin ilmu atau pendekatan kritis yang mengkaji karya sastra dalam hubungannya dengan tatanan masyarakat. Pendekatan ini berangkat dari asumsi mendasar bahwa karya sastra tidak tercipta dalam ruang hampa budaya, melainkan merupakan produk sosio-budaya yang mencerminkan, merespons, dan dipengaruhi oleh kondisi sosial, struktur kelas, norma, serta dinamika sejarah tempat karya tersebut dilahirkan. Dalam kerangka akademis, sosiologi sastra menempatkan sastra sebagai dokumen sosial sekaligus sarana komunikasi antaranggota masyarakat yang merekam realitas, konflik, dan aspirasi zamannya.
+
+---
+
+**Klasifikasi dan Wilayah Kajian Sosiologi Sastra**
+
+Secara metodologis, penelitian sosiologi sastra umumnya mengacu pada pembagian ranah kajian yang dirumuskan oleh para ahli (seperti René Wellek & Austin Warren serta Ian Watt), yang membagi fokus analisis menjadi tiga area utama:
+
+* **Sosiologi Pengarang:** Menganalisis latar belakang sosial, status ekonomi, ideologi, dan posisi pengarang di dalam masyarakat, serta bagaimana faktor-faktor internal-eksternal tersebut memengaruhi proses kreatif penulisan karya sastra.
+* **Sosiologi Karya Sastra (Cerminan Masyarakat):** Membedah isi karya sastra itu sendiri untuk menemukan sejauh mana teks, alur, tokoh, dan konflik di dalamnya mencerminkan struktur sosial, ketimpangan kelas, norma, atau peristiwa sejarah pada masa tertentu (pendekatan mimetik-sosial).
+* **Sosiologi Pembaca dan Penerimaan (Resepsi Sosial):** Mengkaji dampak sosial karya sastra terhadap pembaca, pola konsumsi bacaan di masyarakat, sejarah penerbitan, serta bagaimana karya sastra mampu memengaruhi atau memicu perubahan sosial dalam kehidupan nyata.
+
+---
+
+**Landasan Teori dan Pendekatan Tokoh**
+
+Dalam perkembangannya, sosiologi sastra didasari oleh beberapa pemikiran teoretis yang dominan:
+
+1. **Teori Cermin (Mimetik Sosial):** Dipelopori oleh pemikir awal yang menganggap karya sastra sebagai cerminan langsung (*mirror*) dari kondisi masyarakat pada saat karya itu dibuat.
+2. **Sosiologi Marxis dan Lukács:** Menekankan bahwa karya sastra merupakan arena dialektika dan refleksi dari pertarungan kelas sosial (borjuis vs. proletar) serta struktur ekonomi (*base and superstructure*).
+3. **Strukturalisme Genetik (Lucien Goldmann):** Menggabungkan analisis struktur internal teks dengan latar belakang sosial-historis kelompok sosial (*pandangan dunia/world view*) tempat pengarang bernaung.
+4. **Sosiologi Arena Produksi Kultural (Pierre Bourdieu):** Menganalisis sastra sebagai sebuah "arena" (*field*) tempat para agen saling berebut modal (modal simbolis, budaya, dan ekonomi) serta habitus dalam hierarki kebudayaan.

@@ -1,0 +1,65 @@
+penilaian_karya_sastra
+**Penilaian karya sastra** (sering disebut evaluasi sastra) adalah tahap puncak dalam kritik dan apresiasi sastra yang bertujuan untuk menentukan mutu, keunggulan, serta nilai estetis maupun filosofis dari suatu karya sastra secara objektif dan terukur.
+
+Penilaian tidak didasarkan pada selera pribadi semata (*"saya suka"* atau *"saya tidak suka"*), melainkan melalui tolok ukur, standar kriteria, dan kerangka teori keilmuan sastra.
+
+---
+
+## 1. Kriteria Utama Penilaian Karya Sastra
+
+Untuk menilai apakah sebuah novel, puisi, atau naskah drama memiliki mutu yang tinggi, pengkritik dan akademisi sastra umumnya mengacu pada tiga kriteria utama:
+
+* **Kriteria Keutuhan (*Integrity / Unity*):** Menilai sejauh mana unsur-unsur pembentuk karya (alur, tokoh, latar, diksi, tema) saling berkaitan secara padu dan harmonis membentuk satu kesatuan makna yang utuh.
+* **Kriteria Keselarasan / Keseimbangan (*Harmony / Balance*):** Menilai kesesuaian antara bentuk (*form*) dan isi (*content*). Gaya bahasa dan teknik penyampaian yang dipilih pengarang harus sepadan dengan kedalaman tema yang diangkat.
+* **Kriteria Kejelasan / Intensitas (*Clarity / Intensity*):** Menilai seberapa kuat karya tersebut dalam memberikan kesan emosional, keunikan gagasan, atau pemikiran mendalam yang memikat pembaca (*ketajaman impresi*).
+
+---
+
+## 2. Aspek-Aspek Pokok yang Dinilai
+
+Penilaian karya sastra dibagi menjadi dua cakupan dimensi utama:
+
+```
+                      [ DIMENSI PENILAIAN SASTRA ]
+                                   │
+         ┌─────────────────────────┴─────────────────────────┐
+         ▼                                                   ▼
+  [ ASPEK BENTUK / STRUKTUR ]                         [ ASPEK ISI / SUBSTANSI ]
+  - Pengolahan Bahasa & Diksi                         - Kedalaman Tema & Gagasan
+  - Kerapian Alur & Penokohan                         - Relevansi Nilai-Nilai Kemanusiaan
+  - Inovasi Teknik & Estetika                         - Nilai Moral, Sosial, & Filosofis
+
+```
+
+### A. Penilaian Aspek Bentuk (Teknis & Estetis)
+
+1. **Pengolahan Bahasa:** Kecermatan dalam memilih kata (diksi), penggunaan gaya bahasa (majas), keharmonisan rima/ritme (pada puisi), serta kejelasan struktur kalimat.
+2. **Teknik Penulisan & Inovasi:** Keberanian pengarang dalam menyajikan sudut pandang baru, eksplorasi gaya penceritaan (*plotting*), atau eksperimen bentuk tulisan.
+3. **Konstruksi Struktur Internal:** Kekuatan konflik batin tokoh, konsistensi karakterisasi, dan kelogisan jalinan peristiwa dalam narasi.
+
+### B. Penilaian Aspek Isi (Nilai & Kedalaman Substantif)
+
+1. **Nilai Kemanusiaan & Empati:** Sejauh mana karya tersebut dapat memperluas wawasan kemanusiaan dan kepekaan rasa pembaca.
+2. **Nilai Keberlanjutan (*Permanence*):** Kemampuan karya sastra untuk tetap relevan, bermakna, dan bertahan menembus batas zaman dan generasi (menjadi karya klasik/monumental).
+3. **Nilai Moral dan Kebijaksanaan:** Pesan filosofis, refleksi kritis, atau etika yang ditawarkan tanpa bersikap menggurui (*didaktis implisit*).
+
+---
+
+## 3. Pendekatan dan Ukuran Penilaian
+
+Pengkritik dapat memilih standar ukuran penilaian berdasarkan sudut pandang kriteria berikut:
+
+| Ukuran Penilaian | Dasar Tolok Ukur | Karakteristik Hasil Penilaian |
+| --- | --- | --- |
+| **Relativisme** | Tidak ada norma kaku; mutu karya bergantung pada perkembangan norma estetika zaman dan penerimaan pembaca. | Dinamis, menghargai eksperimen dan inovasi sastra kontemporer. |
+| **Absolutisme** | Menilai berdasarkan kriteria atau hukum-hukum estetika klasik yang dianggap kaku dan abadi. | Cenderung kaku; karya modern sering dinilai dari kriteria baku masa lalu. |
+| **Perspektivisme** | Menilai karya sastra berdasarkan perkembangan zaman tempat karya itu lahir, sekaligus relevansinya bagi era saat ini. | Komprehensif, adil, dan paling banyak digunakan dalam analisis akademis. |
+
+---
+
+## 4. Langkah-Langkah Praktis Melakukan Penilaian
+
+1. **Pembacaan Kritis dan Utuh (*Close Reading*):** Membaca karya secara menyeluruh tanpa prasangka awal untuk memahami isi dan bentuknya.
+2. **Penguraian / Analisis Organik:** Membedah unsur-unsur intrinsik dan ekstrinsik karya menggunakan pendekatan sains sastra yang relevan.
+3. **Komparasi / Pembanding:** Membandingkan karya tersebut dengan karya sastra sejenis (genre yang sama, tema serupa, atau karya pengarang lain di usianya).
+4. **Penyimpulan dan Pertimbangan Nilai:** Menyusun simpulan obyektif mengenai kelebihan, kekurangan, serta kontribusi karya tersebut terhadap peta Kesusastraan.

@@ -1,0 +1,103 @@
+fonologi 
+Fonologi adalah cabang ilmu bahasa (linguistik) yang mempelajari, menganalisis, dan membicarakan runtutan bunyi-bunyi bahasa. Secara etimologis, kata fonologi berasal dari bahasa Yunani, yaitu *phone* (bunyi) dan *logos* (ilmu).
+
+---
+
+**1. HAKIKAT DAN KEDUDUKAN FONOLOGI**
+
+* **Definisi:** Fonologi mengkaji bunyi bahasa yang dihasilkan oleh alat ucap manusia beserta fungsinya dalam tata bahasa.
+* **Kedudukan dalam Linguistik:** Fonologi merupakan fondasi paling dasar dalam tata bahasa. Pembentukan kata (morfologi) dan penyusunan kalimat (sintaksis) seluruhnya dibangun di atas tatanan sistem bunyi.
+* **Pembagian Utama Fonologi:**
+1. **Fonetik:** Mengkaji bunyi bahasa tanpa memperhatikan apakah bunyi tersebut berfungsi sebagai pembeda makna atau tidak.
+2. **Fonemik:** Mengkaji bunyi bahasa dengan memperhatikan fungsinya sebagai pembeda makna (fonem).
+
+
+
+---
+
+**2. FONETIK**
+
+Fonetik membedah proses fisik bunyi bahasa sejak diproduksi hingga diterima. Berdasarkan sudut pandangnya, fonetik terbagi menjadi tiga bidang:
+
+* **Bidang Fonetik:**
+* *Fonetik Artikulatis (Organis):* Mengkaji bagaimana alat-alat ucap manusia menghasilkan bunyi bahasa. (Fokus utama linguistik).
+* *Fonetik Akustik:* Mengkaji bunyi bahasa dari segi gelombang fisik dan frekuensinya saat merambat di udara.
+* *Fonetik Auditoris:* Mengkaji bagaimana telinga dan sistem saraf manusia menerima serta memproses bunyi bahasa.
+
+
+
+**Alat Ucap (Artikulator) dan Pembentukan Bunyi**
+Bunyi bahasa tercipta dari arus udara yang dihembuskan dari paru-paru melewati jalur artikulasi:
+
+* **Artikulator Aktif:** Alat ucap yang bergerak menuju artikulator lain (misal: lidah, bibir bawah).
+* **Artikulator Pasif:** Alat ucap yang diam dan dituju oleh artikulator aktif (misal: gigi atas, gusi, langit-langit keras).
+
+**Klasifikasi Bunyi Bahasa**
+
+1. **Vokal:** Bunyi bahasa yang dihasilkan tanpa adanya hambatan pada saluran udara. Ditentukan oleh tinggi-rendahnya lidah dan bentuk bibir (misal: /a/, /i/, /u/, /e/, /o/).
+2. **Konsonan:** Bunyi bahasa yang dihasilkan dengan menghambat arus udara di titik artikulasi tertentu (misal: /p/, /b/, /t/, /d/, /k/, /g/).
+3. **Diftong:** Bunyi vokal rangkap yang berada dalam satu suku kata (misal: /ai/ pada *pantai*, /au/ pada *harimau*).
+
+---
+
+**3. FONEMIK**
+
+Fonemik adalah bagian dari fonologi yang menganalisis bunyi bahasa untuk menemukan satuan terkecil yang mampu membedakan arti. Satuan tersebut dinamakan **fonem**.
+
+**Pasangan Minimal (Minimal Pair)**
+Metode utama untuk menentukan apakah suatu bunyi adalah fonem atau bukan adalah dengan mencari *pasangan minimal*, yaitu dua kata yang mirip yang hanya dibedakan oleh satu bunyi pada posisi yang sama.
+
+> *Contoh Pasangan Minimal:*
+> * Kata **[pola]** dan **[bola]** hanya berbeda pada bunyi [p] dan [b].
+> * Perbedaan ini mengubah makna kata secara total, maka bunyi **/p/** dan **/b/** adalah dua **fonem yang berbeda** dalam bahasa Indonesia.
+> 
+> 
+
+**Fonem, Alofon, dan Fon**
+
+* **Fon:** Bunyi bahasa secara umum tanpa memandang status pembeda maknanya.
+* **Fonem:** Satuan bunyi terkecil yang berfungsi membedakan makna (ditulis dengan garis miring, misal: `/k/`).
+* **Alofon:** Varian realisasi dari suatu fonem akibat lingkungan bunyinya.
+* *Contoh:* Fonem `/k/` pada kata *kaki* direalisasikan sebagai bunyi letup `[k]`, sedangkan pada kata *bapak* direalisasikan sebagai bunyi hambat hamzah `[ʔ]`. Kedua bunyi ini merupakan **alofon** dari fonem `/k/`.
+
+
+
+---
+
+**4. GEJALA DAN PROSES FONOLOGIS**
+
+Dalam pertuturan nyata, bunyi-bunyi bahasa sering kali mengalami perubahan akibat pengaruh bunyi di sekitarnya. Perubahan ini disebut proses fonologis:
+
+* **Asimilasi:** Perubahan bunyi menjadi serupa atau mirip dengan bunyi di dekatnya.
+* *Contoh:* Kata *satu* + *orang* menjadi *seorang*.
+
+
+* **Disimilasi:** Perubahan bunyi yang sama menjadi berbeda.
+* *Contoh:* Kata *ber* + *ajar* menjadi *belajar* (bunyi /r/ berubah menjadi /l/).
+
+
+* **Epentesis (Sisipan Bunyi):** Penambahan bunyi di tengah kata.
+* *Contoh:* Kata *kapasitor* menjadi *kaspasitor* (bahasa non-standar) atau *kapas* + *an* menjadi *kapasan*.
+
+
+* **Okrusi / Elisi (Pelepasan Bunyi):** Penghilangan suatu bunyi untuk kemudahan artikulasi.
+* *Contoh:* *import* menjadi *impor*.
+
+
+* **Metatesis:** Perubahan urutan bunyi dalam suatu kata.
+* *Contoh:* Kata *rebo* menjadi *rebu*, atau *almari* menjadi *lemari*.
+
+
+
+---
+
+**5. UNUR SUPRASEGMENTAL**
+
+Selain bunyi segmentalan (vokal dan konsonan yang dapat dipisah-pisahkan), bahasa juga memiliki unsur suprasegmental yang menyertai bunyi segmentalan tersebut:
+
+| Unsur Suprasegmental | Penjelasan | Fungsi Utama |
+| --- | --- | --- |
+| **Tekanan (Stress)** | Keras atau lembutnya pengucapan suatu suku kata. | Pembeda intensitas / penekanan pesan. |
+| **Nada (Pitch)** | Tinggi atau rendahnya pengucapan bunyi. | Pada bahasa bernada (seperti Mandarin), nada membedakan makna kata. |
+| **Jeda (Juncture)** | Hentian sebentar dalam tuturan. | Membedakan batas kata, klausa, atau makna kalimat. |
+| **Intonasi** | Naik turunnya nada dalam rangkaian kalimat. | Menentukan jenis kalimat (berita, tanya, atau perintah). |

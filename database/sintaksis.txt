@@ -1,0 +1,111 @@
+Sintaksis adalah cabang ilmu bahasa (linguistik) yang mempelajari hubungan antar-kata dalam tuturan atau tata bahasa yang mengatur pembentukan kalimat, klausa, dan frasa.
+
+---
+
+**1. HAKIKAT SINTAKSIS**
+
+* **Definisi:** Sintaksis memfokuskan kajiannya pada satuan-satuan bahasa yang lebih besar dari kata, yaitu frasa, klausa, kalimat, hingga wacana.
+* **Kedudukan:** Dalam hierarki linguistik, sintaksis berada di atas morfologi (pembentukan kata) dan di bawah pragmatik/semantik (makna dalam konteks).
+* **Alat Sintaksis:**
+* *Urutan Kata:* Perubahan urutan kata dapat mengubah makna atau status gramatikal (misal: *kucing hitam* vs *hitam kucing*).
+* *Bentuk Kata:* Afiksasi yang menandai hubungan sintaksis.
+* *Intonasi:* Perubahan nada/tekanan yang menentukan jenis kalimat (berita, tanya, perintah).
+* *Konektor/Kata Tugas:* Kata hubung yang memperjelas hubungan antar-unsur.
+
+
+
+---
+
+**2. SATUAN-SATUAN SINTAKSIS**
+
+Sintaksis bekerja berdasarkan hierarki dari satuan terkecil hingga terbesar:
+
+**A. Frasa**
+Satuan gramatikal yang terdiri atas dua kata atau lebih yang tidak melampaui batas fungsi (tidak memiliki hubungan Subjek-Predikat secara utuh).
+
+* **Jenis Frasa Berdasarkan Distribusi:**
+* *Endosentrik:* Memiliki inti (*center*) yang dapat menggantikan keseluruhan frasa.
+* *Endosentrik Koordinatif:* *Ayah ibu* (bisa dihubungkan kata "dan").
+* *Endosentrik Atributif:* *Buku baru* (buku = inti, baru = atribut).
+* *Endosentrik Apositif:* *Jokowi, Presiden RI,* (elemen kedua menjelaskan elemen pertama).
+
+
+* *Eksosentrik:* Tidak memiliki inti yang dapat berdiri sendiri menggantikan frasa tersebut (misal: *di pasar*, *ke sekolah*).
+
+
+* **Jenis Frasa Berdasarkan Kategori Kata Inti:**
+* Frasa Nomina (*buku tebal*), Frasa Verba (*sedang makan*), Frasa Adjektiva (*sangat indah*), Frasa Numeralia (*lima ekor*), Frasa Preposisi (*di rumah*).
+
+
+
+**B. Klausa**
+Satuan sintaksis yang terdiri dari dua kata atau lebih dan sekurang-kurangnya memiliki hubungan Subjek (S) dan Predikat (P), serta berpotensi menjadi kalimat.
+
+* **Klausa Bebas:** Klausa yang berpotensi menjadi kalimat mandiri (misal: *Ibu memasak*).
+* **Klausa Terikat:** Klausa yang tidak dapat berdiri sendiri dan biasanya diawali konjungsi subordinatif (misal: *...ketika hujan turun*).
+
+**C. Kalimat**
+Satuan bahasa terkecil yang mengungkapkan pikiran yang utuh, baik secara lisan (diakhiri intonasi final) maupun tulisan (diawali huruf kapital dan diakhiri tanda titik, tanya, atau seru).
+
+---
+
+**3. FUNGSI, KATEGORI, DAN PERAN SINTAKSIS**
+
+Analisis sintaksis modern membagi analisis kalimat ke dalam tiga dimensi utama:
+
+| Dimensi | Penjelasan | Anggota / Elemen |
+| --- | --- | --- |
+| **Fungsi Sintaksis** | "Kotak" atau tempat dalam kalimat yang diisi oleh kata/frasa. | Subjek (S), Predikat (P), Objek (O), Pelengkap (Pel), Keterangan (Ket). |
+| **Kategori Sintaksis** | Kelas kata yang mengisi fungsi sintaksis. | Nomina, Verba, Adjektiva, Numeralia, Preposisi, Demonstrativa. |
+| **Peran Semantis** | Makna logis/tematis dari pengisi fungsi sintaksis. | Pelaku (*Agent*), Sasaran (*Patient*), Alat (*Instrument*), Waktu, Tempat, Penerima. |
+
+*Contoh Analisis:*
+
+> **"Budi memotong kayu dengan gergaji."**
+> * **Fungsi:** Subjek (Budi) + Predikat (memotong) + Objek (kayu) + Keterangan (dengan gergaji)
+> * **Kategori:** Nomina + Verba + Nomina + Frasa Preposisi
+> * **Peran:** Pelaku + Tindakan + Sasaran + Alat
+> 
+> 
+
+---
+
+**4. JENIS-JENIS KALIMAT**
+
+**Berdasarkan Jumlah Klausa**
+
+* **Kalimat Tunggal:** Hanya terdiri atas satu klausa (satu S dan satu P).
+* *Contoh:* Adik tidur di kamar.
+
+
+* **Kalimat Majemuk:** Terdiri atas dua klausa atau lebih.
+* *Majemuk Setara:* Klausa-klausanya sejajar (*Ibu memasak dan Ayah membaca*).
+* *Majemuk Bertingkat:* Terdiri atas klausa utama (induk kalimat) dan klausa terikat (anak kalimat) (*Dia tidak hadir karena sakit*).
+* *Majemuk Campuran:* Penggabungan setara dan bertingkat.
+
+
+
+**Berdasarkan Modulasi / Modus**
+
+* **Kalimat Berita (Deklaratif):** Menyampaikan informasi.
+* **Kalimat Tanya (Interogatif):** Meminta informasi.
+* **Kalimat Perintah (Imperatif):** Meminta/menyuruh orang lain melakukan sesuatu.
+* **Kalimat Seru (Eksklamatif):** Mengungkapkan kekaguman atau emosi kuat.
+
+**Berdasarkan Diatesis (Aktif / Pasif)**
+
+* **Kalimat Aktif:** Subjek melakukan tindakan (*Kucing mengejar tikus*).
+* **Kalimat Pasif:** Subjek menerima tindakan (*Tikus dikejar kucing*).
+
+---
+
+**5. METODE ANALISIS SINTAKSIS**
+
+Untuk membedah struktur sintaksis, terdapat dua metode utama yang umum digunakan:
+
+* **Analisis Unsur Bawahan Langsung (Immediate Constituent Analysis):** Membagi kalimat secara bertahap menjadi konstituen-konstituen terdekatnya hingga mencapai bentuk kata tunggal.
+* **Pohon Struktur (Tree Diagram):** Menggambarkan hierarki hubungan sintaksis dalam bentuk cabang-cabang pangkas (S → FN + FV).
+
+---
+
+Apakah Anda ingin mendalami bagian tertentu, seperti contoh pohon struktur kalimat, analisis fungsi-kategori-peran secara spesifik, atau perbedaan klausa dan frasa?

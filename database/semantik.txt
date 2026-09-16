@@ -1,0 +1,115 @@
+semantik 
+Semantik adalah cabang ilmu linguistik yang mempelajari makna dalam bahasa, baik makna pada tingkat kata, frasa, klausa, kalimat, maupun wacana. Kata semantik berasal dari bahasa Yunani *semantikos* yang berarti "memberikan tanda" atau "signifikan".
+
+---
+
+**1. HAKIKAT DAN KEDUDUKAN SEMANTIK**
+
+* **Definisi:** Semantik memfokuskan kajiannya pada hubungan antara tanda-tanda linguistik (*signifier*) dengan objek atau konsep yang diwakilinya (*signified*).
+* **Segitiga Semiotik (Ogden & Richards):**
+* *Bentuk (Symbol):* Kata/bunyi bahasa (misal: "Kucing").
+* *Konsep (Thought/Reference):* Gambaran mental di dalam otak mengenai hewan berbulu, berkaki empat, dan mengeong.
+* *Acuan (Referent):* Hewan nyata di dunia fisik.
+
+
+* **Kedudukan dalam Linguistik:** Sintaksis dan morfologi mengatur struktur bentuk bahasa, sedangkan semantik memberi isi atau arti pada struktur tersebut.
+
+---
+
+**2. JENIS-JENIS MAKNA**
+
+Semantik membagi makna ke dalam beberapa jenis berdasarkan sudut pandang pengelompokannya:
+
+| Jenis Makna | Penjelasan | Contoh |
+| --- | --- | --- |
+| **Leksikal** | Makna murni kata sesuai dengan kamus (belum mengalami perubahan lingkungan atau konteks). | *Kambing* = hewan memamah biak berkaki empat. |
+| **Gramatikal** | Makna yang muncul akibat proses gramatikal (afiksasi, reduplikasi, komposisi). | *Kambing-kambing* = banyak kambing.<br>
+
+<br>*Mengambinghitamkan* = menyalahkan. |
+| **Denotatif** | Makna lugas, objektif, dan apa adanya sesuai referensi aktual. | *Bunga* = bagian tumbuhan yang indah dan harum. |
+| **Konotatif** | Makna kiasan, subjektif, atau bernilai rasa (positif/negatif). | *Bunga desa* = gadis tercantik di desa. |
+| **Konseptual** | Makna dasar yang dimiliki suatu leksem bebas dari konteks apa pun. | *Rumah* = tempat tinggal manusia. |
+| **Kontekstual** | Makna kata yang ditentukan oleh konteks situasi atau kalimat tempatnya berada. | "Tolong *pegang* kata-kataku!" (*Pegang* = dipegang secara mental/diingat). |
+| **Idiomatis** | Makna unsur-unsur pembentuknya yang sudah menyatu dan tidak dapat ditelusuri dari arti kata dasarnya. | *Gulung tikar* = bangkrut. |
+
+---
+
+**3. RELASI MAKNA (RELASI SEMANTIS)**
+
+Relasi makna adalah hubungan kemaknaan antara satu kata/ujaran dengan kata/ujaran lainnya.
+
+* **Sinonim (Kemiripan Makna):** Kata-kata yang memiliki makna mirip atau sama.
+* *Contoh:* *Baju* = *Pakaian*; *Mati* = *Wafat* (berbeda nilai rasa/sosial).
+
+
+* **Antonim (Oposisi Makna):** Kata-kata yang maknanya berlawanan.
+* *Mutlak:* *Mati* vs *Hidup*.
+* *Relatif (Gradual):* *Kaya* vs *Miskin* (ada tingkatan "cukup").
+* *Relasional:* *Suami* vs *Istri* (hubungan timbal balik).
+
+
+* **Hiponim dan Hipernim (Hubungan Hirarki/Bawahan):**
+* *Hipernim (Kata Umum):* *Bunga*.
+* *Hiponim (Kata Khusus):* *Mawar*, *Melati*, *Anggrek* adalah hiponim dari *Bunga*.
+
+
+* **Homonymy (Homonim, Homofon, Homograf):**
+* *Homonim:* Ejaan dan bunyi sama, makna berbeda. (Contoh: *Bisa* = sanggup / *Bisa* = racun ular).
+* *Homofon:* Bunyi sama, ejaan dan makna berbeda. (Contoh: *Bank* = lembaga keuangan / *Bang* = panggilan kakak).
+* *Homograf:* Ejaan sama, bunyi dan makna berbeda. (Contoh: *Teras* [te-ras] = inti kayu / *Teras* [te-ras] = halaman rumah).
+
+
+* **Polisemi:** Satu kata yang memiliki banyak makna yang masih berkaitan secara logis atau historis.
+* *Contoh:* Kata **"Kepala"**
+1. Kepala manusia (anggota tubuh atas).
+2. Kepala sekolah (pemimpin).
+3. Kepala surat (bagian atas surat).
+
+
+
+
+
+---
+
+**4. PERUBAHAN MAKNA**
+
+Makna kata berkembang dan bergeser seiring perubahan zaman dan dinamika sosial masyarakat:
+
+* **Meluas (Generalisasi):** Makna kata sekarang lebih luas daripada makna aslinya.
+* *Contoh:* Kata **"Bapak"** (dulu: orang tua kandung laki-laki; sekarang: semua pria dewasa atau pejabat).
+
+
+* **Menyempit (Spesialisasi):** Makna kata sekarang lebih khusus/sempit daripada makna aslinya.
+* *Contoh:* Kata **"Sarjana"** (dulu: orang berilmu/cendekiawan; sekarang: lulusan strata satu perguruan tinggi).
+
+
+* **Ameliorasi (Peninggian Makna):** Pergeseran makna ke arah yang lebih sopan, halus, atau bernilai positif.
+* *Contoh:* Kata *Tunanetra* menggantikan kata *Buta*.
+
+
+* **Peyorasi (Penurunan Makna):** Pergeseran makna ke arah yang lebih kasar atau bernilai negatif.
+* *Contoh:* Kata *Bini* dirasa lebih kasar dibandingkan kata *Istri*.
+
+
+* **Sinestesia:** Pergeseran makna akibat pertukaran tanggapan antara dua indra yang berbeda.
+* *Contoh:* "Kata-katanya sangat **manis**." (Pengecap/rasa digabung dengan pendengaran).
+
+
+* **Asosiasi:** Pergeseran makna akibat persamaan sifat antara objek asal dan objek baru.
+* *Contoh:* "Beri saja dia **amplop** agar urusannya cepat selesai." (*Amplop* = uang suap).
+
+
+
+---
+
+**5. ANALISIS KOMPONEN MAKNA**
+
+Analisis komponen makna adalah teknik membedah makna suatu leksem atas unsur-unsur pembeda terkecil menggunakan fitur biner (+ atau -).
+
+> **Contoh Analisis Komponen Makna:**
+> * **Pria:** [+ Manusia], [+ Dewasa], [+ Jantan]
+> * **Wanita:** [+ Manusia], [+ Dewasa], [- Jantan]
+> * **Anak laki-laki:** [+ Manusia], [- Dewasa], [+ Jantan]
+> * **Lembu:** [- Manusia], [+ Dewasa], [+ Jantan]
+> 
+>

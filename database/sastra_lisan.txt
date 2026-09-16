@@ -1,0 +1,55 @@
+sastra_lisan
+**Sastra Lisan**
+
+**Sastra lisan** (juga dikenal sebagai *oratur* atau tradisi lisan) adalah bentuk ekspresi kesusastraan masyarakat yang diciptakan, diabadikan, dan ditransmisikan dari satu generasi ke generasi berikutnya melalui tuturan mulut (*oral*), tanpa mengandalkan media tulisan. Sebagai bentuk kebudayaan paling awal, sastra lisan bertindak sebagai repositori ingatan kolektif, kearifan lokal (*local wisdom*), hukum adat, serta identitas sosiokultural suatu komunitas pemiliknya.
+
+---
+
+**1. Ciri-Ciri Utama Sastra Lisan**
+
+* **Pewarisan Secara Lisan (*Oral Transmission*):** Disampaikan secara turun-temurun dari mulut ke mulut melalui penuturan tuturan langsung, nyanyian, atau pertunjukan.
+* **Anonim (*Anonimitas*):** Nama pencipta asli (*pengarang*) umumnya tidak diketahui karena karya dianggap milik kolektif masyarakat adat.
+* **Formulaik dan Berpola:** Menggunakan formula ingatan tertentu (seperti rima, aliterasi, mantra, atau struktur bait yang konsisten) untuk mempermudah penutur (*pencerita*) mengingat teks.
+* **Variatif (*Penyimpangan Lokal*):** Memiliki banyak versi (*varian*) karena penuturan kembali selalu dipengaruhi oleh daya ingat penutur, situasi penonton, serta konteks zaman.
+* **Kontekstual & Performatif:** Keutuhan maknanya sangat bergantung pada unsur pertunjukan (*performance*), seperti gestur, intonasi, iringan musik, dan tempat penuturan.
+
+---
+
+**2. Tipologi dan Genre Sastra Lisan Nusantara**
+
+| Genre Sastra Lisan | Deskripsi & Karakteristik | Contoh Tradisi Nusantara |
+| --- | --- | --- |
+| **Ungkapan & Puisi Terikat** | Bentuk terstruktur berpola rima dan irama rapat yang berfungsi sebagai alat komunikasi fungsional atau hiburan. | Pantun Melayu, Gurindam, Syair, Mitos/Mantra ritual. |
+| **Cerita Rakyat (*Folktales*)** | Narasi lisan berupa mite (*myth*), legenda (*legend*), dan dongeng yang menjelaskan asal-usul tempat atau norma moral. | Tangkuban Perahu, Mite Dewi Sri, Hikayat Sang Kancil. |
+| **Sastra Lisan Performatif** | Tuturan panjang yang dipadukan dengan seni pertunjukan, seni peran, musik, dan seni rupa. | Wayang Kulit/Golek (Jawa/Sunda), Mak Yong (Kepri), Rabab Pasisia (Minangkabau). |
+| **Epos & Nyanyian Panjang** | Narasi epik heroik berbentuk nyanyian panjang yang dilantunkan oleh juru cerita khusus. | *La Galigo* (Bugis/Makassar), *Kentrung* (Jawa), *Didong* (Gayo). |
+
+---
+
+**3. Pendekatan Analisis Akademis Sastra Lisan**
+
+Dalam studi folklor dan kebahasaan, analisis sastra lisan mengandalkan tiga pendekatan metodologis utama:
+
+```
+                          [ ANALISIS SASTRA LISAN ]
+                                     │
+         ┌───────────────────────────┼───────────────────────────┐
+         ▼                           ▼                           ▼
+  [ TEORI FORMULA (PARRY-LORD) ]  [ SENI PERTUNJUKAN ]      [ ETNOGRAFI WACANA ]
+  - Analisis pola pengulangan     - Konteks performansi      - Fungsi sosiolinguistik
+  - Strategi memori penutur       - Interaksi penonton       - Nilai-nilai lokal
+
+```
+
+1. **Teori Komposisi Lisan (*Oral-Formulaic Theory / Parry-Lord*):** Menganalisis bagaimana juru cerita (*bard*) menyusun teks narasi panjang secara spontan di atas panggung menggunakan rumus-rumus (*formula*) dan frasa standar yang sudah terpatri dalam ingatannya.
+2. **Pendekatan Pertunjukan (*Performance Approach*):** Dipelopori oleh Richard Bauman; memandang sastra lisan tidak sekadar sebagai "teks", tetapi sebagai peristiwa sosial (*social event*) tempat penutur, penonton, dan latar tempat saling mempengaruhi.
+3. **Pendekatan Etnografi Relevansi:** Mengkaji fungsi sastra lisan dalam struktur sosial masyarakat pemiliknya (seperti sarana ritual, sarana pendidikan moral, atau media penyelesaian konflik).
+
+---
+
+**4. Pemanfaatan Sastra Lisan dalam Pengajaran BIPA**
+
+Sastra lisan menjadi materi penyerta berbobot tinggi dalam kurikulum BIPA (khususnya tingkat **BIPA 3 hingga BIPA 6**):
+
+* **Latihan Menyimak & Pelafalan (*Listening & Prosody*):** Nyanyian rakyat, pantun, dan cerita lisan membantu pembelajar BIPA melatih intonasi, ritme, dan pemahaman ragam lisan bahasa Indonesia.
+* **Internalisasi Kesantunan & Pragmatik:** Pantun dan ungkapan lisan mengenalkan strategi berkomunikasi tidak langsung (*indirectness*) serta estetika berbahasa yang halus dalam budaya Nusantara.
